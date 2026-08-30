@@ -1,0 +1,1001 @@
+Crop,Temperature_C,Humidity_Percent,Rainfall_mm,Soil_Moisture_Percent,Soil_pH,Nitrogen_mg_kg,Phosphorus_mg_kg,Potassium_mg_kg,Leaf_Color,Leaf_Spot,Leaf_Wilting,Leaf_Yellowing,Disease
+Tomato,32.8,55,6.7,38,7.0,42,85,69,Green,No,No,No,Healthy
+Tomato,22.4,72,18.1,50,7.1,127,38,72,Dark Green,No,No,No,Healthy
+Tomato,32.0,61,8.3,52,7.9,106,23,26,Green,Yes,No,No,Early Blight
+Maize,34.1,86,13.8,40,7.9,116,20,85,Pale Green,No,Yes,Yes,Common Rust
+Tomato,33.5,45,25.7,37,6.1,136,91,61,Brown,No,No,Yes,Early Blight
+Rice,30.2,50,16.0,56,5.5,117,44,96,Green,No,No,No,Healthy
+Rice,22.6,42,24.2,76,5.8,74,82,106,Dark Green,No,No,No,Healthy
+Potato,25.9,81,13.8,58,5.4,87,84,69,Green,No,Yes,Yes,Leaf Spot
+Maize,19.8,43,25.8,44,6.9,128,86,23,Green,No,No,No,Gray Leaf Spot
+Maize,31.6,47,20.5,59,7.3,107,24,52,Dark Green,No,No,No,Healthy
+Potato,18.1,86,26.3,58,7.9,65,74,28,Pale Green,Yes,Yes,No,Leaf Spot
+Potato,37.1,73,27.6,66,6.5,48,56,118,Pale Green,Yes,Yes,Yes,Mosaic Virus
+Maize,19.7,71,24.5,41,5.4,141,80,36,Dark Green,No,No,No,Healthy
+Maize,26.5,53,27.9,50,7.1,122,95,98,Pale Green,No,No,Yes,Downy Mildew
+Potato,19.3,41,17.6,54,6.8,21,19,105,Yellow,Yes,Yes,Yes,Early Blight
+Rice,28.3,57,20.1,52,6.6,141,41,115,Dark Green,No,No,No,Healthy
+Wheat,19.9,82,12.9,79,6.2,33,96,98,Yellow,Yes,No,No,Rust
+Tomato,21.8,74,13.5,79,5.6,138,41,24,Green,Yes,Yes,Yes,Early Blight
+Tomato,21.3,71,14.4,76,7.7,62,58,15,Green,No,No,No,Early Blight
+Wheat,31.2,71,4.6,62,5.7,34,84,109,Yellow,No,Yes,Yes,Smut
+Maize,28.1,94,15.9,32,7.9,40,33,23,Yellow,Yes,No,Yes,Gray Leaf Spot
+Maize,29.6,42,18.6,78,7.0,100,43,41,Pale Green,Yes,No,No,Leaf Blight
+Potato,27.1,88,28.1,26,6.4,45,19,83,Brown,No,Yes,No,Late Blight
+Tomato,25.4,50,13.1,63,6.8,22,95,119,Pale Green,Yes,Yes,No,Early Blight
+Tomato,32.8,49,8.2,51,7.2,72,97,96,Dark Green,No,No,No,Healthy
+Maize,23.0,94,1.5,79,7.5,31,10,57,Brown,No,Yes,No,Gray Leaf Spot
+Maize,29.2,47,2.3,44,6.6,114,84,85,Brown,No,Yes,Yes,Gray Leaf Spot
+Rice,36.0,90,29.2,30,7.7,73,97,46,Yellow,No,No,Yes,Brown Spot
+Potato,37.5,91,5.3,77,5.1,105,62,117,Brown,No,Yes,Yes,Early Blight
+Wheat,35.2,54,6.0,83,6.0,78,38,18,Green,No,No,No,Healthy
+Wheat,23.6,44,29.0,60,6.1,150,61,101,Pale Green,Yes,Yes,No,Powdery Mildew
+Potato,37.3,56,1.1,80,6.0,100,65,92,Yellow,No,Yes,No,Mosaic Virus
+Tomato,18.0,91,16.2,50,6.1,37,95,57,Pale Green,Yes,No,No,Bacterial Spot
+Wheat,26.0,58,16.6,49,6.3,117,96,110,Brown,No,No,Yes,Powdery Mildew
+Rice,22.2,90,17.4,66,6.4,133,96,42,Green,Yes,Yes,No,Brown Spot
+Maize,24.7,92,28.6,55,7.0,77,35,33,Yellow,Yes,Yes,No,Downy Mildew
+Maize,27.1,80,17.3,74,6.5,82,28,98,Green,No,No,No,Healthy
+Tomato,22.4,91,28.7,84,5.2,83,25,73,Brown,No,No,No,Bacterial Spot
+Maize,26.5,75,13.4,45,7.2,141,67,48,Brown,No,No,Yes,Downy Mildew
+Rice,19.5,58,7.0,67,6.0,40,27,34,Brown,No,Yes,Yes,Bacterial Leaf Blight
+Tomato,26.2,74,14.0,32,5.6,127,59,113,Yellow,No,No,Yes,Bacterial Spot
+Rice,33.1,94,26.7,78,6.6,76,72,43,Pale Green,No,No,Yes,Brown Spot
+Wheat,31.4,91,12.1,46,7.5,52,89,83,Yellow,No,Yes,Yes,Powdery Mildew
+Wheat,35.3,51,1.5,73,6.0,136,51,58,Green,No,No,No,Rust
+Tomato,18.4,74,1.6,69,5.7,37,93,20,Yellow,Yes,Yes,Yes,Bacterial Spot
+Maize,22.8,70,20.1,52,6.4,85,57,36,Yellow,Yes,No,Yes,Leaf Blight
+Maize,36.6,76,20.3,73,6.2,70,19,90,Green,No,No,No,Healthy
+Tomato,35.0,78,24.2,30,6.0,129,94,62,Yellow,No,Yes,No,Late Blight
+Wheat,26.7,63,19.1,83,7.1,131,32,108,Dark Green,No,No,No,Healthy
+Maize,33.5,69,13.1,59,6.0,82,21,50,Green,Yes,No,No,Downy Mildew
+Rice,27.9,60,5.5,52,6.1,86,53,50,Dark Green,No,No,No,Healthy
+Maize,28.3,52,2.6,77,6.5,81,98,75,Dark Green,No,No,No,Healthy
+Wheat,19.9,54,12.1,56,5.9,114,70,85,Dark Green,No,No,No,Healthy
+Wheat,24.6,84,13.6,64,5.8,50,34,55,Yellow,Yes,Yes,Yes,Smut
+Wheat,32.5,88,15.7,61,7.9,69,47,44,Pale Green,Yes,No,Yes,Powdery Mildew
+Maize,23.5,43,16.6,41,6.9,145,23,16,Pale Green,No,No,No,Leaf Blight
+Rice,37.3,56,28.2,86,5.3,36,61,77,Yellow,Yes,Yes,Yes,Leaf Blast
+Maize,19.7,55,3.6,78,6.8,77,76,63,Green,No,No,No,Common Rust
+Rice,30.4,79,28.8,37,7.8,73,90,42,Pale Green,Yes,Yes,Yes,Sheath Blight
+Potato,19.5,40,12.3,85,5.9,79,46,105,Pale Green,No,Yes,Yes,Mosaic Virus
+Rice,31.2,52,12.8,53,6.9,88,28,24,Yellow,Yes,No,No,Sheath Blight
+Wheat,27.4,59,21.0,59,6.5,146,66,25,Green,No,No,No,Healthy
+Wheat,30.1,41,2.7,27,8.0,88,83,20,Brown,No,No,No,Powdery Mildew
+Potato,26.7,92,14.8,36,6.4,124,52,56,Yellow,Yes,No,No,Mosaic Virus
+Wheat,31.3,65,24.4,29,6.4,100,42,56,Yellow,No,Yes,No,Powdery Mildew
+Wheat,21.8,63,18.7,88,6.9,33,36,49,Green,No,No,No,Healthy
+Rice,35.6,71,3.6,55,7.1,99,80,16,Green,Yes,Yes,Yes,Bacterial Leaf Blight
+Wheat,31.0,49,15.0,62,6.5,89,63,76,Dark Green,No,No,No,Healthy
+Potato,29.0,64,5.7,90,7.2,54,18,50,Green,No,No,Yes,Leaf Spot
+Rice,34.7,77,30.0,87,7.6,134,78,76,Pale Green,No,No,No,Brown Spot
+Rice,37.6,55,17.2,54,7.6,125,15,55,Green,No,No,Yes,Leaf Blast
+Wheat,20.5,77,10.0,37,7.6,132,22,82,Dark Green,No,No,No,Healthy
+Tomato,26.2,81,29.1,34,6.4,87,53,94,Green,Yes,No,No,Early Blight
+Rice,35.4,42,18.5,55,6.9,93,39,110,Yellow,No,Yes,Yes,Bacterial Leaf Blight
+Wheat,31.9,41,1.4,32,5.9,115,65,33,Brown,No,Yes,Yes,Rust
+Potato,30.2,64,18.6,55,6.5,56,39,74,Dark Green,No,No,No,Healthy
+Wheat,31.3,91,14.0,61,7.0,60,19,71,Pale Green,No,No,No,Powdery Mildew
+Wheat,22.0,64,25.6,38,5.7,111,83,52,Pale Green,Yes,No,No,Powdery Mildew
+Tomato,35.3,89,22.3,31,7.7,147,46,114,Brown,No,Yes,Yes,Mosaic Virus
+Maize,31.6,86,23.0,42,6.9,30,49,115,Green,Yes,No,Yes,Common Rust
+Tomato,24.5,66,5.3,41,7.4,113,77,79,Pale Green,Yes,No,No,Late Blight
+Rice,34.1,69,28.9,43,7.3,77,96,107,Green,No,Yes,No,Brown Spot
+Tomato,28.7,69,11.1,58,6.8,115,23,101,Brown,No,Yes,No,Late Blight
+Maize,31.0,80,24.7,63,6.9,49,27,20,Yellow,No,No,Yes,Leaf Blight
+Tomato,35.7,48,11.7,72,7.0,127,85,110,Brown,No,Yes,No,Early Blight
+Maize,36.8,57,1.0,72,5.7,133,40,61,Yellow,No,No,Yes,Gray Leaf Spot
+Wheat,21.8,47,28.5,83,5.3,74,92,96,Yellow,Yes,No,Yes,Powdery Mildew
+Potato,22.1,93,23.0,51,6.8,79,52,114,Brown,Yes,No,Yes,Mosaic Virus
+Potato,23.0,51,3.3,28,5.4,111,40,90,Pale Green,Yes,Yes,No,Mosaic Virus
+Tomato,32.8,73,3.4,33,6.4,112,75,90,Yellow,No,Yes,Yes,Early Blight
+Maize,27.2,41,1.8,86,7.5,129,97,28,Green,No,Yes,Yes,Common Rust
+Rice,21.0,48,8.3,66,6.1,95,68,79,Green,Yes,Yes,Yes,Sheath Blight
+Wheat,35.8,66,10.2,83,6.2,44,50,69,Pale Green,No,No,Yes,Leaf Blight
+Wheat,19.8,45,2.8,37,7.2,115,26,86,Green,No,No,No,Healthy
+Maize,29.2,82,3.7,70,7.6,128,16,51,Pale Green,No,Yes,Yes,Downy Mildew
+Potato,22.5,46,10.5,72,5.3,91,83,43,Green,Yes,No,Yes,Leaf Spot
+Potato,32.1,59,27.6,69,5.0,56,82,99,Green,Yes,Yes,Yes,Late Blight
+Tomato,22.3,66,13.6,45,6.1,103,82,91,Yellow,Yes,Yes,Yes,Mosaic Virus
+Maize,31.5,57,13.3,79,6.5,133,63,49,Green,No,No,No,Healthy
+Maize,24.9,47,8.5,87,6.6,98,15,43,Dark Green,No,No,No,Healthy
+Maize,18.2,59,28.4,42,7.3,94,51,30,Green,No,No,No,Healthy
+Wheat,21.5,64,16.0,54,6.5,110,19,65,Yellow,No,Yes,No,Leaf Blight
+Tomato,29.5,76,12.1,78,5.9,123,12,56,Brown,No,No,Yes,Late Blight
+Wheat,22.9,77,12.0,35,6.2,99,53,43,Dark Green,No,No,No,Healthy
+Potato,28.2,47,15.9,49,7.7,109,54,108,Green,No,No,No,Healthy
+Potato,20.9,52,5.2,44,7.3,39,32,113,Dark Green,No,No,No,Healthy
+Wheat,33.2,68,20.4,66,7.6,100,29,71,Yellow,No,No,No,Smut
+Rice,19.1,72,2.2,84,6.4,34,57,51,Yellow,Yes,No,No,Sheath Blight
+Maize,37.1,87,26.9,82,7.7,68,51,92,Green,Yes,Yes,No,Downy Mildew
+Tomato,37.6,45,15.1,47,5.1,132,66,82,Brown,No,No,No,Late Blight
+Wheat,33.5,83,17.9,67,5.2,44,81,101,Green,No,No,Yes,Leaf Blight
+Rice,29.7,49,27.5,64,7.9,120,26,91,Green,No,No,No,Healthy
+Rice,25.5,90,9.9,41,7.0,43,92,100,Green,No,Yes,No,Sheath Blight
+Rice,37.0,61,28.4,87,5.6,55,29,24,Pale Green,Yes,Yes,No,Leaf Blast
+Maize,29.9,49,4.9,46,7.2,31,62,61,Brown,No,No,No,Leaf Blight
+Potato,22.8,91,23.5,49,6.1,132,69,113,Pale Green,No,No,Yes,Mosaic Virus
+Potato,20.8,56,1.6,86,7.6,46,76,30,Pale Green,Yes,Yes,No,Mosaic Virus
+Wheat,20.9,67,2.8,53,7.5,109,13,68,Yellow,No,No,Yes,Smut
+Wheat,25.5,41,9.6,37,7.5,105,28,32,Green,No,No,No,Healthy
+Rice,31.9,48,22.8,85,6.3,21,20,17,Pale Green,Yes,Yes,No,Bacterial Leaf Blight
+Tomato,22.8,47,1.4,78,6.9,137,18,29,Green,Yes,Yes,Yes,Late Blight
+Rice,18.0,62,7.2,78,5.6,41,77,61,Yellow,Yes,No,No,Bacterial Leaf Blight
+Tomato,37.6,56,22.4,70,7.4,108,40,108,Yellow,No,Yes,Yes,Bacterial Spot
+Rice,24.8,81,5.3,84,7.9,142,90,38,Brown,Yes,No,Yes,Sheath Blight
+Rice,18.9,52,26.6,65,7.8,121,79,75,Pale Green,Yes,Yes,No,Leaf Blast
+Rice,35.3,61,8.2,72,6.3,122,66,64,Dark Green,No,No,No,Healthy
+Potato,31.8,63,27.7,59,7.4,128,20,70,Brown,No,No,Yes,Leaf Spot
+Tomato,31.2,59,13.4,79,5.5,133,54,72,Yellow,No,No,No,Late Blight
+Tomato,31.4,65,10.9,45,7.9,56,87,101,Dark Green,No,No,No,Healthy
+Tomato,19.3,89,19.4,71,6.1,28,87,34,Green,No,No,No,Early Blight
+Tomato,20.8,63,11.9,60,5.7,49,13,109,Brown,No,No,Yes,Mosaic Virus
+Rice,32.1,53,29.9,61,7.1,145,35,30,Brown,Yes,No,Yes,Brown Spot
+Wheat,34.2,94,29.6,69,7.1,94,48,35,Green,No,No,No,Healthy
+Rice,22.5,52,23.8,55,7.4,26,56,85,Pale Green,No,Yes,Yes,Sheath Blight
+Tomato,26.0,85,21.6,77,7.3,38,26,55,Yellow,No,No,No,Late Blight
+Potato,30.8,51,23.0,41,6.3,34,25,81,Brown,No,Yes,Yes,Mosaic Virus
+Rice,24.9,73,26.8,35,5.8,90,26,95,Pale Green,Yes,Yes,Yes,Leaf Blast
+Potato,32.4,78,10.1,30,7.5,27,20,20,Pale Green,Yes,No,Yes,Mosaic Virus
+Wheat,23.8,59,14.5,76,5.9,38,98,22,Brown,No,No,No,Smut
+Wheat,24.8,49,9.4,65,7.2,108,61,31,Pale Green,Yes,No,Yes,Rust
+Wheat,23.3,55,4.2,31,5.9,118,88,68,Green,No,No,No,Healthy
+Potato,36.7,86,9.4,45,6.5,139,73,54,Green,Yes,Yes,No,Late Blight
+Maize,37.3,53,17.5,31,5.2,146,86,98,Green,No,Yes,Yes,Gray Leaf Spot
+Wheat,35.6,86,11.0,76,6.1,122,16,87,Brown,No,No,Yes,Rust
+Wheat,27.0,75,8.4,40,5.4,44,60,62,Pale Green,No,Yes,Yes,Smut
+Maize,26.0,42,1.4,42,7.1,141,76,73,Brown,Yes,No,No,Downy Mildew
+Potato,37.8,87,25.3,68,6.5,150,78,77,Pale Green,No,Yes,No,Leaf Spot
+Rice,37.6,77,9.2,28,6.8,87,93,115,Green,No,No,No,Healthy
+Tomato,27.6,73,18.9,73,5.4,82,14,88,Yellow,Yes,Yes,No,Mosaic Virus
+Rice,21.0,84,6.1,89,7.3,140,17,105,Brown,Yes,No,No,Bacterial Leaf Blight
+Maize,24.3,51,13.8,68,6.6,87,88,76,Brown,Yes,No,No,Gray Leaf Spot
+Potato,33.4,85,6.2,87,6.0,109,81,116,Pale Green,No,Yes,No,Late Blight
+Wheat,37.1,91,4.4,30,5.9,40,54,71,Pale Green,No,Yes,Yes,Powdery Mildew
+Maize,36.7,84,8.1,38,6.8,81,41,21,Brown,Yes,Yes,Yes,Common Rust
+Wheat,32.3,46,20.4,42,5.0,60,62,98,Green,No,Yes,No,Powdery Mildew
+Rice,30.9,89,2.7,54,6.6,29,32,68,Brown,Yes,No,No,Brown Spot
+Potato,35.5,40,9.0,38,7.8,105,46,73,Green,Yes,No,No,Late Blight
+Potato,24.6,86,13.8,57,7.2,23,53,116,Dark Green,No,No,No,Healthy
+Maize,21.5,94,19.2,76,7.5,103,21,66,Yellow,Yes,Yes,No,Leaf Blight
+Rice,18.1,64,7.1,59,7.9,97,84,107,Yellow,No,No,Yes,Leaf Blast
+Tomato,27.3,50,12.2,89,7.8,99,98,30,Dark Green,No,No,No,Healthy
+Rice,22.4,48,14.3,83,7.2,115,63,104,Green,Yes,Yes,Yes,Sheath Blight
+Maize,28.6,63,2.3,39,5.2,149,35,88,Brown,Yes,No,No,Gray Leaf Spot
+Tomato,32.3,71,2.7,90,6.3,34,68,31,Green,No,Yes,No,Early Blight
+Rice,25.9,92,0.1,52,6.7,31,64,59,Green,No,No,No,Healthy
+Maize,36.7,44,29.6,85,5.1,124,33,113,Green,No,No,No,Healthy
+Wheat,37.9,64,13.5,73,6.1,54,93,59,Yellow,Yes,No,Yes,Powdery Mildew
+Potato,33.1,59,13.9,79,6.6,78,41,73,Dark Green,No,No,No,Healthy
+Potato,21.8,86,23.0,29,7.4,127,88,113,Yellow,Yes,Yes,Yes,Late Blight
+Tomato,18.7,78,20.2,31,5.7,31,61,71,Brown,Yes,Yes,Yes,Mosaic Virus
+Maize,22.7,86,17.3,66,5.7,56,94,81,Brown,No,No,No,Common Rust
+Tomato,37.0,87,27.3,79,6.7,32,54,97,Green,No,No,No,Mosaic Virus
+Potato,25.5,88,16.1,55,7.5,96,100,33,Green,Yes,No,No,Late Blight
+Maize,20.7,55,7.6,67,6.9,135,57,26,Brown,Yes,No,No,Downy Mildew
+Maize,18.8,44,5.6,52,6.4,105,48,16,Brown,Yes,Yes,No,Downy Mildew
+Potato,32.1,65,27.5,66,7.3,117,69,83,Pale Green,No,No,No,Mosaic Virus
+Maize,27.3,91,29.4,85,7.3,101,36,62,Pale Green,No,Yes,Yes,Gray Leaf Spot
+Potato,23.2,77,17.4,78,5.9,70,52,44,Dark Green,No,No,No,Healthy
+Maize,28.0,81,28.3,68,5.8,145,92,109,Green,No,Yes,No,Leaf Blight
+Potato,32.4,71,5.5,32,6.6,39,95,21,Yellow,No,Yes,Yes,Early Blight
+Tomato,18.2,72,13.7,32,6.9,143,94,77,Yellow,Yes,No,Yes,Early Blight
+Tomato,32.4,74,29.3,27,6.5,130,32,28,Yellow,Yes,Yes,Yes,Mosaic Virus
+Maize,23.0,62,8.0,75,5.2,123,68,87,Brown,Yes,No,Yes,Downy Mildew
+Tomato,26.1,64,16.6,32,6.9,63,20,78,Dark Green,No,No,No,Healthy
+Rice,37.5,46,26.8,30,5.7,141,44,20,Yellow,No,Yes,Yes,Sheath Blight
+Rice,37.2,77,4.3,75,7.8,96,30,87,Green,No,No,No,Healthy
+Maize,31.5,74,10.0,42,7.4,40,74,110,Pale Green,Yes,Yes,No,Gray Leaf Spot
+Potato,24.8,89,18.4,75,7.9,103,13,96,Dark Green,No,No,No,Healthy
+Wheat,22.6,75,28.2,80,5.6,117,20,113,Pale Green,Yes,Yes,Yes,Leaf Blight
+Rice,25.6,90,19.0,74,6.0,47,21,15,Pale Green,No,No,No,Leaf Blast
+Tomato,19.7,67,13.5,90,6.2,26,21,60,Yellow,No,No,Yes,Early Blight
+Rice,25.8,45,21.7,56,6.7,63,97,63,Brown,Yes,No,No,Bacterial Leaf Blight
+Rice,20.9,50,13.0,78,5.9,39,56,47,Brown,No,Yes,No,Bacterial Leaf Blight
+Tomato,24.1,65,10.0,73,7.4,104,66,57,Green,Yes,No,No,Early Blight
+Maize,27.6,51,28.9,65,5.9,145,83,115,Brown,No,No,No,Leaf Blight
+Wheat,20.3,76,6.0,48,7.0,26,69,105,Brown,No,No,Yes,Powdery Mildew
+Wheat,20.8,59,7.3,44,7.1,116,19,72,Green,No,No,Yes,Leaf Blight
+Rice,29.9,45,3.3,56,7.0,110,31,97,Yellow,No,No,No,Sheath Blight
+Tomato,20.0,54,15.3,53,6.3,120,69,113,Green,No,No,No,Healthy
+Rice,27.7,58,12.5,35,5.3,56,54,54,Dark Green,No,No,No,Healthy
+Wheat,28.4,62,14.3,81,7.2,135,50,23,Pale Green,Yes,Yes,Yes,Rust
+Rice,31.5,50,27.9,56,6.5,60,52,86,Dark Green,No,No,No,Healthy
+Wheat,34.0,80,5.5,80,6.2,70,67,90,Green,No,Yes,Yes,Rust
+Potato,33.0,91,23.9,38,7.4,67,56,56,Brown,No,Yes,No,Late Blight
+Wheat,37.3,60,17.9,75,6.8,109,55,73,Brown,No,Yes,Yes,Smut
+Rice,22.8,47,5.5,43,6.5,127,86,32,Dark Green,No,No,No,Healthy
+Wheat,27.7,74,20.8,47,6.7,145,46,32,Brown,No,No,Yes,Rust
+Rice,27.7,52,24.5,89,7.0,124,97,77,Dark Green,No,No,No,Healthy
+Wheat,21.3,76,0.9,53,5.9,90,38,83,Pale Green,Yes,No,No,Leaf Blight
+Maize,20.3,47,8.0,71,6.6,30,66,84,Brown,No,Yes,Yes,Downy Mildew
+Rice,27.0,62,25.9,36,6.3,50,40,41,Dark Green,No,No,No,Healthy
+Maize,21.3,48,23.5,51,7.4,109,78,50,Brown,No,No,No,Gray Leaf Spot
+Maize,37.0,72,29.6,37,5.4,125,17,50,Brown,Yes,Yes,Yes,Common Rust
+Rice,33.2,83,11.8,43,6.7,88,90,68,Green,No,Yes,Yes,Leaf Blast
+Wheat,33.0,84,28.1,72,6.4,144,51,89,Yellow,Yes,No,No,Smut
+Tomato,26.0,67,24.7,88,5.8,92,53,85,Brown,No,No,Yes,Mosaic Virus
+Tomato,30.5,93,13.8,40,7.8,60,66,73,Green,No,No,No,Healthy
+Wheat,37.9,48,26.5,63,5.5,90,21,98,Pale Green,No,Yes,No,Rust
+Potato,25.9,59,21.8,54,6.3,43,100,27,Green,No,No,No,Healthy
+Potato,19.6,77,6.8,81,5.0,107,25,69,Brown,No,Yes,Yes,Leaf Spot
+Wheat,32.6,46,3.1,72,7.6,55,58,114,Green,No,No,No,Healthy
+Potato,28.6,40,18.3,46,6.3,74,90,110,Green,No,No,No,Healthy
+Wheat,31.7,95,6.5,37,5.4,51,85,108,Green,No,No,No,Smut
+Potato,23.5,45,7.4,61,7.3,26,94,53,Brown,Yes,No,No,Early Blight
+Tomato,27.9,47,7.2,34,6.6,23,56,55,Brown,No,No,No,Early Blight
+Maize,33.3,89,2.2,33,5.0,75,15,22,Green,No,No,No,Leaf Blight
+Wheat,30.8,74,18.5,60,5.3,40,75,41,Green,No,No,No,Healthy
+Maize,25.8,80,22.9,33,5.9,131,40,22,Brown,Yes,No,Yes,Common Rust
+Wheat,30.2,59,20.0,47,5.4,55,99,16,Brown,No,No,No,Smut
+Potato,20.5,89,26.2,40,7.3,27,52,118,Green,No,Yes,No,Late Blight
+Maize,27.9,72,10.8,88,7.6,62,57,35,Dark Green,No,No,No,Healthy
+Tomato,31.5,47,6.9,90,5.0,23,41,20,Green,No,No,Yes,Mosaic Virus
+Potato,29.1,85,22.2,78,5.7,83,63,107,Dark Green,No,No,No,Healthy
+Rice,29.4,47,15.1,31,5.5,31,61,23,Dark Green,No,No,No,Healthy
+Rice,24.5,75,13.7,72,5.6,97,89,46,Green,No,No,Yes,Brown Spot
+Maize,21.0,66,0.7,69,6.9,22,52,15,Green,No,Yes,Yes,Leaf Blight
+Maize,26.4,43,29.2,43,7.1,43,15,44,Green,No,No,Yes,Leaf Blight
+Maize,28.1,80,24.6,34,6.8,35,65,99,Green,No,No,No,Healthy
+Potato,23.2,60,27.8,75,7.1,103,50,72,Pale Green,Yes,Yes,Yes,Late Blight
+Potato,20.2,46,4.9,84,5.9,50,78,60,Brown,No,No,No,Mosaic Virus
+Rice,19.8,91,20.6,30,5.6,103,28,26,Green,No,No,No,Healthy
+Rice,28.3,83,9.0,47,5.1,123,67,86,Brown,Yes,No,Yes,Bacterial Leaf Blight
+Potato,18.2,93,23.4,53,5.4,122,57,102,Green,No,No,No,Healthy
+Maize,23.2,92,2.2,33,5.6,133,26,26,Pale Green,Yes,Yes,No,Downy Mildew
+Tomato,36.5,67,24.7,75,6.5,117,97,69,Brown,No,Yes,Yes,Early Blight
+Rice,26.9,49,1.0,56,6.9,147,62,85,Green,Yes,Yes,No,Brown Spot
+Wheat,26.4,81,26.5,56,6.9,24,58,115,Pale Green,No,No,No,Rust
+Maize,24.4,57,5.4,65,6.8,27,45,22,Green,No,Yes,Yes,Downy Mildew
+Tomato,31.1,57,16.0,32,7.3,76,83,117,Green,No,Yes,Yes,Early Blight
+Potato,24.4,87,20.9,28,7.1,110,82,87,Brown,Yes,No,No,Mosaic Virus
+Potato,18.8,43,7.0,53,5.1,142,10,57,Brown,Yes,No,Yes,Leaf Spot
+Rice,18.4,77,21.1,43,7.3,113,19,62,Dark Green,No,No,No,Healthy
+Maize,24.7,60,4.1,45,7.2,131,91,77,Dark Green,No,No,No,Healthy
+Potato,31.9,79,23.6,53,7.0,64,58,54,Pale Green,Yes,Yes,Yes,Mosaic Virus
+Maize,35.0,89,29.0,29,5.5,101,88,43,Yellow,No,Yes,No,Gray Leaf Spot
+Tomato,24.9,60,5.0,36,7.5,105,67,16,Pale Green,Yes,Yes,Yes,Early Blight
+Rice,33.7,86,0.0,74,6.3,127,31,67,Green,No,No,No,Brown Spot
+Tomato,33.8,76,19.5,53,5.5,38,14,52,Yellow,No,No,Yes,Bacterial Spot
+Tomato,21.4,64,4.8,34,6.6,43,53,91,Green,Yes,No,Yes,Late Blight
+Maize,21.1,46,9.9,49,6.2,87,94,51,Pale Green,Yes,Yes,Yes,Gray Leaf Spot
+Wheat,29.0,71,4.6,71,5.0,42,47,120,Green,Yes,Yes,Yes,Smut
+Potato,30.8,45,14.2,39,5.9,121,70,77,Pale Green,Yes,No,Yes,Early Blight
+Rice,25.4,68,1.3,81,6.4,77,44,87,Yellow,Yes,Yes,Yes,Bacterial Leaf Blight
+Rice,26.3,88,17.7,32,7.5,127,78,102,Green,Yes,No,No,Sheath Blight
+Tomato,36.1,85,1.0,43,5.4,134,32,36,Brown,Yes,Yes,Yes,Bacterial Spot
+Wheat,37.8,67,6.1,43,7.5,86,50,108,Green,No,No,No,Healthy
+Tomato,29.1,75,9.8,60,6.6,23,99,94,Green,Yes,No,Yes,Bacterial Spot
+Potato,29.8,88,28.9,37,7.8,45,46,83,Pale Green,No,No,No,Mosaic Virus
+Wheat,30.2,42,5.2,76,5.4,122,14,65,Pale Green,Yes,Yes,No,Smut
+Rice,18.4,92,23.8,64,5.8,145,99,102,Yellow,Yes,Yes,No,Brown Spot
+Wheat,23.4,66,18.1,36,5.6,74,62,109,Green,No,Yes,Yes,Powdery Mildew
+Tomato,32.2,65,4.1,28,5.5,71,17,46,Yellow,No,Yes,No,Late Blight
+Potato,25.4,69,15.2,40,7.0,81,57,77,Green,Yes,No,No,Late Blight
+Rice,34.8,56,22.5,36,5.9,118,16,35,Brown,Yes,Yes,Yes,Leaf Blast
+Rice,28.3,95,23.4,26,6.4,53,92,37,Yellow,Yes,No,No,Bacterial Leaf Blight
+Rice,35.9,94,10.5,57,5.7,97,96,81,Green,Yes,Yes,No,Bacterial Leaf Blight
+Maize,30.2,59,20.5,86,5.2,90,91,56,Pale Green,No,No,Yes,Downy Mildew
+Potato,33.3,43,24.2,76,7.0,55,13,98,Green,No,No,No,Mosaic Virus
+Wheat,32.7,77,21.2,49,6.0,76,97,83,Green,No,No,Yes,Leaf Blight
+Maize,23.9,70,3.8,58,7.2,66,97,57,Yellow,Yes,No,Yes,Leaf Blight
+Rice,33.8,61,11.2,62,6.4,50,70,21,Yellow,No,Yes,Yes,Bacterial Leaf Blight
+Wheat,24.0,43,26.1,44,5.4,71,53,67,Green,Yes,No,Yes,Smut
+Tomato,24.7,51,9.4,32,5.0,90,36,112,Brown,Yes,No,Yes,Bacterial Spot
+Potato,26.7,67,12.1,86,6.1,29,78,40,Pale Green,Yes,No,Yes,Mosaic Virus
+Tomato,30.5,55,6.8,69,5.9,46,59,79,Dark Green,No,No,No,Healthy
+Potato,34.5,59,28.5,83,7.2,106,65,102,Green,No,No,No,Healthy
+Rice,25.2,52,4.9,76,5.1,77,26,42,Yellow,Yes,Yes,No,Bacterial Leaf Blight
+Tomato,35.5,56,23.1,31,6.8,32,94,28,Yellow,Yes,Yes,No,Bacterial Spot
+Wheat,20.5,56,14.2,44,5.6,22,48,68,Yellow,No,Yes,No,Leaf Blight
+Tomato,32.4,47,8.5,38,6.5,71,43,81,Brown,No,No,No,Mosaic Virus
+Potato,29.0,53,20.6,86,6.0,20,11,100,Green,No,No,No,Healthy
+Tomato,31.4,49,28.5,90,5.2,45,42,97,Brown,No,No,No,Mosaic Virus
+Wheat,20.0,51,26.2,62,6.1,100,64,109,Green,No,No,No,Healthy
+Tomato,18.2,48,19.9,46,6.0,132,89,49,Green,No,No,No,Healthy
+Rice,21.7,65,12.0,83,5.8,118,98,76,Green,Yes,Yes,Yes,Brown Spot
+Tomato,20.1,77,14.5,81,5.5,117,55,93,Yellow,Yes,No,No,Early Blight
+Tomato,26.8,44,7.8,65,5.0,77,95,58,Yellow,No,Yes,No,Bacterial Spot
+Rice,21.0,92,16.8,31,5.0,60,74,75,Green,Yes,Yes,No,Bacterial Leaf Blight
+Rice,24.6,57,1.5,53,6.7,116,61,119,Brown,Yes,No,No,Leaf Blast
+Maize,19.8,71,13.4,40,7.9,24,23,66,Green,Yes,Yes,Yes,Gray Leaf Spot
+Maize,30.8,72,16.9,83,7.9,113,16,119,Brown,No,No,No,Downy Mildew
+Rice,20.3,88,19.8,25,6.0,94,80,81,Pale Green,Yes,Yes,Yes,Bacterial Leaf Blight
+Wheat,34.4,87,21.6,38,5.8,70,34,30,Green,Yes,No,Yes,Rust
+Rice,33.1,42,27.8,40,7.3,135,68,99,Green,No,No,No,Healthy
+Wheat,28.6,43,16.6,80,7.5,143,75,114,Green,No,No,No,Healthy
+Maize,32.6,48,3.1,66,6.5,118,63,92,Brown,No,No,No,Leaf Blight
+Rice,34.1,48,12.4,90,5.9,100,80,95,Brown,Yes,Yes,No,Bacterial Leaf Blight
+Rice,37.6,81,29.3,47,6.5,102,100,29,Pale Green,No,No,No,Leaf Blast
+Wheat,28.5,41,11.4,31,7.0,71,44,111,Green,No,No,No,Healthy
+Rice,20.9,43,20.7,62,5.6,28,55,119,Green,Yes,Yes,No,Brown Spot
+Potato,33.7,91,20.9,31,7.8,119,63,115,Pale Green,Yes,Yes,No,Mosaic Virus
+Potato,35.4,95,26.1,53,7.7,114,85,84,Brown,Yes,No,No,Mosaic Virus
+Potato,21.7,51,22.1,40,6.1,129,45,86,Dark Green,No,No,No,Healthy
+Potato,29.7,56,0.2,84,7.1,59,15,34,Pale Green,Yes,No,No,Early Blight
+Maize,25.2,90,21.2,53,7.9,37,74,35,Green,No,Yes,No,Downy Mildew
+Potato,31.3,61,10.8,52,7.9,141,81,120,Yellow,Yes,No,No,Early Blight
+Potato,36.4,55,28.8,66,6.1,49,59,47,Pale Green,Yes,No,No,Mosaic Virus
+Wheat,23.9,81,5.8,90,5.2,44,31,113,Green,No,No,No,Healthy
+Tomato,31.4,89,6.4,79,7.5,72,78,104,Green,Yes,Yes,Yes,Early Blight
+Wheat,18.8,44,1.6,57,6.7,78,43,67,Green,No,No,No,Powdery Mildew
+Rice,25.8,47,16.0,33,7.3,31,99,24,Dark Green,No,No,No,Healthy
+Maize,23.8,83,9.0,36,5.8,132,58,65,Green,No,No,No,Healthy
+Wheat,28.7,48,22.4,62,7.9,56,48,101,Pale Green,Yes,Yes,Yes,Rust
+Tomato,29.5,65,16.1,35,5.9,108,37,67,Green,No,No,No,Healthy
+Potato,22.4,93,7.6,39,5.5,33,80,74,Yellow,No,Yes,No,Early Blight
+Tomato,32.5,71,28.5,70,5.4,80,22,51,Yellow,Yes,No,No,Early Blight
+Wheat,30.3,59,20.8,44,6.7,113,50,69,Brown,Yes,No,Yes,Powdery Mildew
+Potato,23.5,63,4.0,67,7.6,138,67,60,Pale Green,No,Yes,Yes,Leaf Spot
+Maize,34.8,94,24.8,50,5.8,39,19,17,Green,No,No,No,Healthy
+Maize,26.1,77,6.4,29,6.7,140,93,114,Brown,No,No,Yes,Downy Mildew
+Maize,20.7,72,15.3,75,6.1,22,94,45,Brown,Yes,No,Yes,Common Rust
+Potato,37.0,82,26.2,43,7.2,143,55,20,Brown,No,Yes,Yes,Mosaic Virus
+Rice,22.7,82,6.2,71,6.2,136,15,20,Pale Green,Yes,No,No,Brown Spot
+Maize,29.4,64,19.6,71,6.8,39,76,47,Green,Yes,No,No,Downy Mildew
+Rice,33.9,78,0.2,42,6.3,78,19,80,Pale Green,Yes,Yes,Yes,Bacterial Leaf Blight
+Potato,30.0,92,3.5,54,6.2,104,24,76,Green,No,Yes,Yes,Late Blight
+Wheat,22.9,48,17.2,45,5.4,30,83,33,Green,No,No,No,Healthy
+Potato,36.4,73,28.7,27,7.6,92,20,42,Green,No,No,Yes,Late Blight
+Potato,30.0,90,17.5,48,6.9,150,43,36,Pale Green,No,Yes,Yes,Leaf Spot
+Wheat,20.6,41,6.1,89,7.1,58,87,27,Brown,No,Yes,Yes,Leaf Blight
+Tomato,31.2,78,16.2,25,7.7,130,76,68,Pale Green,Yes,No,Yes,Bacterial Spot
+Wheat,25.0,91,22.2,37,6.3,85,71,113,Brown,Yes,No,No,Leaf Blight
+Rice,18.1,87,23.7,40,6.6,116,93,41,Pale Green,No,No,Yes,Leaf Blast
+Potato,31.0,56,7.8,79,6.7,90,97,65,Brown,No,No,Yes,Leaf Spot
+Rice,29.1,56,29.7,69,7.3,121,27,99,Yellow,Yes,No,Yes,Sheath Blight
+Tomato,28.2,90,10.2,31,5.5,21,21,120,Brown,No,No,Yes,Early Blight
+Tomato,22.4,45,18.3,74,7.8,122,88,98,Pale Green,Yes,Yes,No,Late Blight
+Wheat,22.0,82,27.9,61,5.6,150,76,104,Green,No,No,No,Healthy
+Maize,31.5,63,7.2,25,7.9,42,45,114,Green,No,No,No,Leaf Blight
+Maize,28.4,87,21.1,36,6.6,109,54,119,Pale Green,Yes,Yes,No,Leaf Blight
+Wheat,18.1,51,12.2,38,6.7,148,47,58,Yellow,No,No,No,Smut
+Wheat,27.7,55,22.7,83,7.0,27,71,29,Pale Green,Yes,No,Yes,Smut
+Potato,26.2,62,15.5,26,7.1,87,41,51,Yellow,No,No,Yes,Late Blight
+Maize,27.5,62,6.6,59,5.5,68,73,109,Brown,Yes,Yes,No,Leaf Blight
+Potato,22.1,55,25.1,70,5.5,47,25,25,Green,Yes,Yes,No,Early Blight
+Rice,24.3,76,26.1,87,5.5,150,45,65,Brown,Yes,Yes,No,Sheath Blight
+Wheat,18.7,62,11.8,47,6.4,50,99,81,Green,No,Yes,Yes,Smut
+Potato,29.6,60,10.8,58,5.6,87,40,49,Green,No,No,Yes,Leaf Spot
+Wheat,22.2,84,22.6,71,7.6,91,67,38,Brown,Yes,Yes,No,Leaf Blight
+Potato,26.6,64,5.9,44,6.4,22,32,68,Green,Yes,No,No,Mosaic Virus
+Rice,29.2,76,1.4,37,7.1,35,37,119,Pale Green,No,Yes,No,Brown Spot
+Rice,25.2,75,16.7,57,6.0,125,25,59,Brown,Yes,No,No,Brown Spot
+Rice,27.7,87,13.4,35,6.1,93,69,95,Brown,Yes,No,No,Sheath Blight
+Maize,26.1,44,2.4,68,5.7,101,93,52,Pale Green,No,No,No,Downy Mildew
+Rice,28.4,68,12.4,48,7.6,52,40,99,Pale Green,Yes,Yes,Yes,Sheath Blight
+Wheat,19.9,70,16.5,28,7.3,41,23,48,Green,No,No,No,Healthy
+Tomato,24.2,55,22.1,81,6.9,53,77,36,Yellow,Yes,No,No,Bacterial Spot
+Wheat,37.5,74,28.0,81,5.4,65,85,91,Green,No,No,No,Leaf Blight
+Wheat,22.5,45,13.3,71,6.2,59,48,16,Yellow,Yes,No,No,Smut
+Wheat,18.2,71,28.4,86,5.9,130,47,91,Brown,Yes,No,Yes,Smut
+Wheat,26.7,55,4.9,74,7.5,76,43,25,Green,Yes,No,No,Smut
+Maize,26.3,94,2.1,42,5.9,136,89,72,Pale Green,No,Yes,No,Common Rust
+Tomato,19.0,74,0.7,38,5.8,52,66,108,Yellow,Yes,Yes,Yes,Early Blight
+Tomato,22.3,66,9.3,88,8.0,138,99,116,Yellow,No,Yes,Yes,Bacterial Spot
+Tomato,33.5,44,16.3,48,5.6,84,58,16,Yellow,Yes,No,No,Late Blight
+Potato,22.0,87,23.1,51,6.4,99,51,35,Green,No,No,No,Healthy
+Maize,20.4,70,19.2,50,6.1,33,95,42,Yellow,Yes,No,No,Downy Mildew
+Tomato,33.9,77,3.6,56,5.0,30,84,115,Green,Yes,No,Yes,Early Blight
+Potato,28.0,83,18.6,32,5.2,59,99,83,Yellow,Yes,No,Yes,Early Blight
+Rice,33.8,88,10.4,81,7.2,25,98,63,Pale Green,Yes,No,Yes,Sheath Blight
+Wheat,29.2,74,20.9,49,6.7,109,51,108,Green,No,Yes,Yes,Leaf Blight
+Maize,27.0,92,7.9,71,6.4,149,58,108,Brown,Yes,No,Yes,Leaf Blight
+Rice,31.2,74,24.6,49,6.6,147,80,34,Dark Green,No,No,No,Healthy
+Rice,30.8,47,2.9,33,5.1,53,32,19,Brown,Yes,No,Yes,Bacterial Leaf Blight
+Tomato,29.4,93,11.7,87,6.6,85,16,61,Green,No,No,No,Healthy
+Maize,18.3,53,19.7,35,6.4,35,56,86,Dark Green,No,No,No,Healthy
+Rice,34.5,57,15.9,34,7.5,39,37,81,Green,No,No,No,Healthy
+Tomato,28.6,52,5.8,56,6.7,65,81,110,Green,Yes,No,No,Early Blight
+Wheat,21.3,51,16.5,89,6.0,60,78,91,Dark Green,No,No,No,Healthy
+Rice,29.0,60,25.3,77,7.3,130,51,92,Brown,Yes,No,No,Brown Spot
+Rice,26.9,65,0.0,29,7.9,24,76,32,Pale Green,Yes,No,Yes,Bacterial Leaf Blight
+Potato,18.4,92,28.3,60,7.8,150,81,88,Brown,Yes,Yes,No,Late Blight
+Rice,20.8,63,26.7,56,5.7,96,21,88,Green,Yes,Yes,No,Leaf Blast
+Wheat,27.8,84,21.1,37,6.8,96,14,108,Green,Yes,Yes,No,Rust
+Rice,26.3,95,3.6,54,7.2,22,91,114,Green,Yes,No,Yes,Bacterial Leaf Blight
+Rice,29.3,60,15.1,53,5.5,120,67,111,Yellow,Yes,No,No,Sheath Blight
+Wheat,20.6,45,14.3,31,6.6,87,20,66,Green,Yes,Yes,No,Rust
+Maize,27.8,81,17.1,56,5.7,88,65,56,Yellow,Yes,No,No,Leaf Blight
+Rice,21.8,62,17.8,28,7.3,63,54,93,Green,Yes,No,Yes,Brown Spot
+Potato,31.7,49,22.7,35,5.3,33,41,94,Brown,No,Yes,No,Early Blight
+Tomato,27.0,41,10.0,52,5.6,86,80,76,Brown,Yes,No,Yes,Late Blight
+Rice,19.2,52,23.7,59,5.2,22,18,64,Pale Green,No,Yes,Yes,Leaf Blast
+Rice,22.6,64,15.3,37,7.7,144,86,83,Yellow,Yes,Yes,No,Bacterial Leaf Blight
+Maize,18.8,73,9.1,87,6.2,60,12,59,Dark Green,No,No,No,Healthy
+Rice,22.7,72,8.3,32,6.9,119,13,86,Pale Green,Yes,Yes,No,Brown Spot
+Wheat,19.8,64,15.6,54,6.3,59,64,54,Pale Green,No,Yes,Yes,Rust
+Potato,28.8,91,6.1,42,5.9,54,65,113,Brown,Yes,No,Yes,Mosaic Virus
+Maize,37.0,47,5.5,43,7.2,101,62,67,Pale Green,No,No,Yes,Downy Mildew
+Potato,20.6,41,22.9,59,6.8,79,86,44,Green,No,No,No,Healthy
+Tomato,19.6,89,14.3,89,7.5,140,93,62,Brown,No,No,No,Late Blight
+Potato,21.9,42,12.3,26,7.8,125,38,110,Brown,Yes,Yes,Yes,Early Blight
+Wheat,27.8,60,26.0,56,6.3,30,87,109,Green,No,No,Yes,Smut
+Maize,27.0,92,26.3,56,6.6,121,15,86,Dark Green,No,No,No,Healthy
+Maize,21.8,68,11.9,63,7.3,93,69,36,Dark Green,No,No,No,Healthy
+Rice,36.4,84,15.5,43,6.4,135,21,107,Yellow,Yes,Yes,No,Sheath Blight
+Wheat,27.0,51,13.6,50,7.6,43,42,56,Brown,Yes,Yes,Yes,Powdery Mildew
+Wheat,19.7,85,11.5,90,6.8,60,58,85,Green,Yes,Yes,No,Powdery Mildew
+Maize,21.2,49,5.4,31,6.3,99,67,51,Brown,Yes,Yes,Yes,Leaf Blight
+Tomato,33.3,40,13.8,88,6.6,21,87,78,Brown,Yes,No,No,Mosaic Virus
+Wheat,19.6,78,0.2,60,6.9,73,16,38,Brown,Yes,No,Yes,Leaf Blight
+Potato,31.3,93,18.1,67,7.8,32,23,68,Green,No,No,No,Healthy
+Potato,30.2,84,21.0,47,7.9,112,14,26,Pale Green,No,No,No,Late Blight
+Tomato,34.9,44,8.8,42,5.4,90,52,82,Green,Yes,Yes,Yes,Bacterial Spot
+Tomato,32.6,80,15.9,36,6.5,93,64,92,Pale Green,No,No,Yes,Mosaic Virus
+Maize,27.9,86,19.0,88,7.4,79,100,52,Brown,Yes,Yes,Yes,Downy Mildew
+Wheat,32.7,53,24.0,78,6.2,105,54,86,Green,No,No,No,Healthy
+Tomato,31.8,56,23.7,64,5.9,102,10,29,Pale Green,No,No,Yes,Early Blight
+Potato,24.6,61,27.7,86,7.7,29,92,32,Green,Yes,No,No,Early Blight
+Wheat,36.6,43,25.1,63,6.7,100,81,83,Yellow,Yes,No,No,Leaf Blight
+Tomato,23.6,41,10.2,73,6.9,62,83,92,Green,Yes,Yes,No,Early Blight
+Rice,23.4,45,14.9,55,6.1,97,37,82,Dark Green,No,No,No,Healthy
+Potato,25.5,42,23.3,36,6.3,26,71,79,Green,No,No,No,Healthy
+Potato,36.5,86,26.2,64,7.3,56,22,120,Brown,Yes,Yes,No,Late Blight
+Wheat,20.3,59,28.0,36,6.0,31,23,81,Pale Green,Yes,No,Yes,Smut
+Rice,21.9,57,16.0,81,7.0,89,29,35,Pale Green,Yes,Yes,Yes,Leaf Blast
+Potato,25.0,60,8.1,61,6.7,63,19,54,Pale Green,No,Yes,Yes,Mosaic Virus
+Tomato,36.1,43,3.2,31,5.3,120,32,105,Green,No,No,No,Bacterial Spot
+Potato,19.6,88,22.9,41,5.3,139,22,73,Pale Green,No,No,Yes,Mosaic Virus
+Potato,35.2,79,7.7,71,6.2,104,51,73,Green,Yes,Yes,No,Early Blight
+Tomato,27.6,94,5.1,69,6.8,52,75,28,Green,Yes,No,Yes,Late Blight
+Rice,27.2,77,12.4,56,6.6,143,59,23,Pale Green,Yes,No,No,Sheath Blight
+Maize,28.9,55,5.2,34,7.2,144,24,90,Green,No,Yes,No,Common Rust
+Potato,37.1,44,17.9,73,6.0,35,21,42,Brown,Yes,Yes,Yes,Late Blight
+Wheat,23.8,79,17.3,50,5.6,101,48,87,Pale Green,No,No,Yes,Smut
+Maize,30.2,72,12.1,41,7.6,35,57,85,Green,No,No,No,Healthy
+Tomato,34.4,62,3.3,61,7.6,80,65,104,Green,No,No,No,Mosaic Virus
+Wheat,28.9,82,5.2,42,5.6,118,56,68,Brown,No,Yes,Yes,Leaf Blight
+Tomato,31.0,49,21.6,87,7.0,54,20,32,Dark Green,No,No,No,Healthy
+Wheat,36.6,79,5.4,90,6.3,135,59,60,Brown,Yes,No,Yes,Smut
+Maize,34.9,55,21.4,59,6.2,113,14,19,Green,No,Yes,No,Gray Leaf Spot
+Tomato,32.6,73,29.5,60,6.4,40,76,93,Yellow,Yes,No,Yes,Early Blight
+Maize,24.2,43,27.1,26,6.4,140,83,108,Pale Green,No,No,No,Downy Mildew
+Rice,18.7,78,22.5,58,5.2,141,84,36,Yellow,No,Yes,No,Leaf Blast
+Wheat,20.5,44,25.5,60,5.8,91,45,47,Green,No,No,No,Healthy
+Tomato,21.5,77,22.2,82,6.1,64,43,115,Brown,No,Yes,Yes,Mosaic Virus
+Rice,37.3,78,28.0,44,7.5,125,59,45,Dark Green,No,No,No,Healthy
+Potato,29.6,93,10.4,58,7.3,49,16,36,Green,No,No,No,Early Blight
+Wheat,22.7,83,21.2,85,5.8,131,11,51,Green,No,No,Yes,Smut
+Tomato,30.7,94,13.0,59,6.0,88,22,47,Green,No,Yes,Yes,Mosaic Virus
+Maize,31.6,51,9.4,26,7.0,37,11,67,Yellow,Yes,No,No,Common Rust
+Potato,23.0,42,0.7,36,5.2,75,86,96,Yellow,Yes,Yes,Yes,Late Blight
+Wheat,34.1,51,26.9,48,5.8,139,94,24,Green,No,No,No,Smut
+Rice,33.6,57,23.3,73,6.2,35,43,119,Pale Green,Yes,No,Yes,Leaf Blast
+Wheat,30.2,51,19.4,38,5.4,130,37,93,Yellow,No,No,Yes,Rust
+Tomato,19.4,86,7.5,82,5.1,147,29,98,Green,No,No,No,Healthy
+Tomato,23.3,84,9.9,75,6.7,145,71,70,Green,Yes,Yes,Yes,Bacterial Spot
+Wheat,20.4,74,28.1,70,6.0,97,61,22,Yellow,No,No,Yes,Leaf Blight
+Wheat,31.0,51,16.6,74,7.0,96,99,64,Yellow,No,No,Yes,Powdery Mildew
+Wheat,20.8,52,0.8,55,6.5,36,79,97,Pale Green,No,No,Yes,Rust
+Tomato,19.1,90,21.6,76,5.4,137,96,83,Brown,Yes,Yes,Yes,Late Blight
+Potato,31.1,70,27.2,30,5.7,53,11,37,Yellow,No,Yes,No,Leaf Spot
+Maize,34.7,44,24.5,38,5.3,76,18,117,Brown,No,No,No,Leaf Blight
+Rice,37.5,76,16.4,66,7.5,74,15,90,Green,No,No,No,Healthy
+Rice,20.4,49,22.7,46,7.1,62,66,46,Green,No,No,No,Healthy
+Potato,33.8,80,18.4,45,5.0,144,20,15,Green,No,No,No,Healthy
+Potato,32.1,77,26.6,78,7.1,141,98,31,Green,No,No,No,Healthy
+Potato,28.5,66,7.2,47,6.8,29,86,38,Green,Yes,No,No,Late Blight
+Wheat,29.2,52,3.5,37,6.9,149,38,74,Green,No,No,No,Healthy
+Rice,21.9,90,4.5,85,6.5,60,95,20,Green,No,No,No,Healthy
+Rice,22.2,56,10.0,83,5.1,33,78,37,Brown,Yes,No,Yes,Brown Spot
+Tomato,32.4,77,17.4,78,5.6,103,39,114,Yellow,No,Yes,Yes,Early Blight
+Potato,35.4,64,26.7,34,6.4,144,16,70,Brown,Yes,No,Yes,Leaf Spot
+Wheat,20.7,86,5.8,70,7.9,71,52,31,Yellow,Yes,No,Yes,Powdery Mildew
+Tomato,27.2,50,22.8,53,7.7,60,91,93,Brown,Yes,Yes,No,Bacterial Spot
+Maize,35.2,53,17.7,84,5.8,129,41,46,Pale Green,No,Yes,Yes,Gray Leaf Spot
+Maize,26.4,42,1.2,85,7.2,149,14,69,Dark Green,No,No,No,Healthy
+Wheat,27.0,55,2.5,26,7.1,124,37,31,Dark Green,No,No,No,Healthy
+Rice,31.0,45,0.5,64,5.5,137,83,110,Yellow,No,No,Yes,Leaf Blast
+Wheat,33.8,63,18.8,25,7.6,38,59,103,Pale Green,Yes,No,No,Rust
+Rice,28.8,90,6.2,35,6.9,105,17,80,Pale Green,Yes,Yes,No,Sheath Blight
+Rice,30.4,63,11.0,33,6.7,72,27,57,Brown,Yes,No,Yes,Bacterial Leaf Blight
+Potato,25.1,57,15.1,79,5.8,36,57,59,Green,No,Yes,No,Late Blight
+Maize,36.0,68,18.6,33,5.6,137,21,25,Green,Yes,No,Yes,Downy Mildew
+Tomato,23.5,84,4.4,44,7.6,25,47,68,Brown,No,No,No,Early Blight
+Wheat,23.8,44,0.7,54,7.5,105,62,89,Dark Green,No,No,No,Healthy
+Rice,29.9,84,15.9,81,6.4,53,49,36,Pale Green,Yes,No,No,Bacterial Leaf Blight
+Rice,21.0,58,13.7,46,6.9,61,78,51,Green,No,No,No,Healthy
+Potato,21.2,47,1.2,65,6.7,132,43,62,Brown,Yes,Yes,No,Early Blight
+Rice,25.5,74,29.3,63,5.4,26,61,78,Brown,No,No,Yes,Leaf Blast
+Tomato,37.5,61,19.4,62,6.4,94,83,100,Brown,No,No,Yes,Mosaic Virus
+Wheat,20.8,75,3.5,28,6.2,76,67,60,Green,No,No,No,Healthy
+Rice,30.2,52,17.5,53,7.3,91,35,17,Green,No,No,No,Healthy
+Maize,31.5,45,29.3,75,5.6,101,87,92,Yellow,No,No,Yes,Gray Leaf Spot
+Wheat,25.7,40,8.5,69,5.9,134,81,26,Brown,No,No,No,Powdery Mildew
+Rice,34.1,67,21.9,78,5.4,42,28,41,Pale Green,No,No,Yes,Leaf Blast
+Maize,19.8,66,19.2,59,6.2,138,100,87,Brown,Yes,Yes,No,Gray Leaf Spot
+Rice,27.8,92,24.8,63,6.5,138,38,18,Yellow,Yes,No,No,Sheath Blight
+Wheat,31.1,58,12.5,87,7.7,82,13,30,Dark Green,No,No,No,Healthy
+Wheat,30.0,63,17.4,80,7.6,141,98,119,Green,No,No,No,Healthy
+Rice,32.7,41,25.4,45,6.7,57,50,74,Brown,No,Yes,Yes,Sheath Blight
+Rice,26.4,62,1.5,62,6.6,39,75,39,Brown,Yes,Yes,No,Brown Spot
+Rice,23.4,84,20.7,37,6.6,110,28,16,Brown,No,No,No,Brown Spot
+Wheat,36.4,50,3.1,44,6.5,68,81,93,Yellow,No,No,Yes,Powdery Mildew
+Tomato,36.5,70,10.4,71,5.4,133,86,81,Pale Green,Yes,No,Yes,Early Blight
+Tomato,20.6,84,4.3,54,5.9,73,26,25,Green,Yes,Yes,Yes,Early Blight
+Wheat,18.9,46,1.0,90,6.8,140,25,47,Yellow,Yes,No,Yes,Leaf Blight
+Tomato,36.4,53,17.6,50,5.6,109,13,26,Green,No,No,No,Healthy
+Rice,25.0,50,25.7,55,6.5,37,22,119,Yellow,Yes,Yes,No,Sheath Blight
+Potato,18.1,86,3.0,52,7.8,141,56,104,Brown,No,Yes,Yes,Mosaic Virus
+Rice,26.5,72,6.8,39,7.3,100,25,74,Yellow,Yes,No,No,Bacterial Leaf Blight
+Rice,32.4,45,9.8,39,6.2,136,86,109,Pale Green,No,Yes,No,Sheath Blight
+Rice,21.8,44,26.8,85,7.8,114,32,16,Green,Yes,No,No,Bacterial Leaf Blight
+Maize,20.4,65,12.0,38,7.2,63,18,61,Green,No,No,No,Healthy
+Rice,29.9,65,3.7,79,7.2,91,84,90,Pale Green,No,No,No,Leaf Blast
+Maize,37.8,72,8.4,83,5.3,84,72,78,Brown,Yes,Yes,Yes,Gray Leaf Spot
+Tomato,28.0,41,29.2,73,6.8,103,29,53,Green,No,No,No,Healthy
+Tomato,33.4,90,14.0,62,7.0,145,74,48,Pale Green,Yes,Yes,No,Mosaic Virus
+Tomato,27.0,94,11.3,83,5.1,65,81,99,Pale Green,Yes,No,No,Bacterial Spot
+Potato,32.3,71,22.9,87,7.0,140,70,86,Brown,Yes,No,No,Late Blight
+Wheat,37.4,79,20.3,61,6.0,27,85,20,Brown,No,No,Yes,Smut
+Rice,19.9,62,29.8,77,6.1,82,41,45,Pale Green,Yes,Yes,No,Bacterial Leaf Blight
+Tomato,21.4,74,9.8,83,7.0,128,82,80,Green,No,Yes,No,Late Blight
+Maize,37.7,64,17.1,66,6.7,145,22,103,Green,No,No,No,Healthy
+Rice,28.1,88,20.0,46,6.8,113,65,40,Green,Yes,Yes,No,Bacterial Leaf Blight
+Rice,23.9,76,12.1,53,6.9,43,84,27,Dark Green,No,No,No,Healthy
+Rice,29.3,73,14.3,51,6.0,39,93,120,Dark Green,No,No,No,Healthy
+Maize,26.7,74,9.4,78,6.2,136,95,112,Brown,Yes,Yes,No,Common Rust
+Potato,23.4,80,16.0,80,7.8,35,76,40,Pale Green,No,Yes,Yes,Leaf Spot
+Potato,34.9,66,9.6,33,6.9,125,44,120,Pale Green,Yes,No,Yes,Late Blight
+Wheat,20.3,52,0.8,64,6.4,131,64,97,Yellow,Yes,Yes,No,Rust
+Potato,23.2,91,8.3,47,6.9,30,72,115,Green,No,No,No,Healthy
+Tomato,24.3,59,26.0,77,7.7,43,60,107,Green,No,No,No,Healthy
+Potato,29.4,72,28.0,57,6.5,43,40,91,Green,No,No,No,Healthy
+Rice,34.6,87,11.7,55,7.8,75,28,28,Brown,Yes,No,No,Brown Spot
+Wheat,35.3,43,14.7,72,7.1,48,50,84,Green,No,Yes,No,Powdery Mildew
+Potato,27.5,63,24.6,27,6.9,28,94,117,Yellow,Yes,No,No,Late Blight
+Rice,36.1,83,3.7,55,7.6,119,11,65,Pale Green,No,Yes,Yes,Brown Spot
+Rice,35.2,50,27.5,65,7.6,124,14,50,Yellow,No,No,No,Leaf Blast
+Rice,35.5,92,3.0,45,7.1,149,18,60,Green,No,No,Yes,Bacterial Leaf Blight
+Tomato,30.6,90,19.2,25,6.2,98,50,88,Yellow,Yes,Yes,Yes,Early Blight
+Maize,34.9,83,12.3,65,6.4,54,43,37,Pale Green,No,Yes,Yes,Leaf Blight
+Wheat,21.6,64,28.3,53,5.1,25,81,97,Brown,Yes,No,Yes,Powdery Mildew
+Rice,19.0,79,12.9,58,5.4,114,31,87,Yellow,Yes,No,No,Leaf Blast
+Wheat,22.5,53,5.7,59,5.9,146,58,31,Dark Green,No,No,No,Healthy
+Potato,22.3,92,8.5,49,6.3,124,28,18,Pale Green,No,Yes,No,Mosaic Virus
+Potato,29.7,81,13.7,26,6.4,102,98,65,Brown,No,No,No,Late Blight
+Tomato,29.1,43,10.0,55,6.4,110,87,100,Green,No,No,No,Healthy
+Tomato,28.1,64,9.1,75,7.0,53,81,20,Brown,No,Yes,No,Late Blight
+Rice,20.6,60,21.3,80,5.4,49,50,20,Brown,No,No,No,Bacterial Leaf Blight
+Wheat,36.1,56,18.4,58,6.6,131,31,55,Green,Yes,No,Yes,Powdery Mildew
+Potato,19.1,51,1.1,58,5.5,139,65,29,Green,Yes,No,No,Early Blight
+Maize,27.2,47,25.4,43,5.4,43,36,51,Brown,Yes,No,Yes,Gray Leaf Spot
+Maize,28.5,76,5.4,34,5.7,147,96,27,Dark Green,No,No,No,Healthy
+Tomato,31.6,83,3.7,72,6.8,47,51,34,Yellow,Yes,No,No,Late Blight
+Wheat,29.9,40,9.9,30,7.0,135,51,108,Brown,Yes,Yes,No,Powdery Mildew
+Rice,32.9,75,28.6,73,5.3,85,32,45,Dark Green,No,No,No,Healthy
+Tomato,35.0,50,11.7,76,5.9,59,25,53,Dark Green,No,No,No,Healthy
+Wheat,36.1,78,3.9,37,7.5,71,72,72,Green,No,No,No,Powdery Mildew
+Tomato,34.2,79,5.6,79,5.3,107,69,101,Brown,Yes,No,Yes,Bacterial Spot
+Rice,26.7,91,14.3,44,8.0,96,41,81,Green,No,Yes,Yes,Bacterial Leaf Blight
+Tomato,20.2,67,12.4,84,7.0,84,55,47,Yellow,Yes,Yes,No,Mosaic Virus
+Potato,34.9,42,2.5,63,5.9,136,95,72,Pale Green,No,Yes,Yes,Early Blight
+Potato,32.9,78,7.8,38,6.3,24,10,65,Green,No,No,No,Healthy
+Tomato,31.1,69,20.8,87,5.9,112,98,101,Green,No,Yes,Yes,Early Blight
+Potato,21.8,92,0.5,49,7.6,73,71,98,Green,No,No,No,Healthy
+Potato,34.8,94,23.7,49,5.3,138,28,75,Green,Yes,Yes,Yes,Leaf Spot
+Potato,37.3,70,0.6,82,6.8,71,47,87,Green,Yes,No,Yes,Leaf Spot
+Tomato,37.6,94,14.9,62,5.1,122,72,80,Green,Yes,Yes,Yes,Bacterial Spot
+Wheat,24.3,44,8.0,78,7.7,49,73,94,Pale Green,No,No,Yes,Smut
+Potato,32.5,70,10.3,54,6.5,106,87,106,Green,Yes,No,No,Late Blight
+Wheat,33.9,91,29.1,45,6.9,92,98,110,Yellow,No,Yes,Yes,Powdery Mildew
+Potato,30.1,46,23.8,88,5.9,73,81,21,Yellow,No,No,No,Early Blight
+Potato,34.6,72,1.0,33,6.0,49,89,44,Yellow,Yes,No,No,Early Blight
+Rice,33.4,89,26.3,59,7.7,46,100,21,Green,No,Yes,Yes,Brown Spot
+Maize,33.6,46,24.7,30,6.5,62,90,30,Brown,No,Yes,No,Downy Mildew
+Wheat,28.0,95,3.0,71,6.0,55,25,40,Green,No,Yes,Yes,Smut
+Wheat,23.7,50,2.6,72,7.1,126,56,95,Brown,Yes,No,Yes,Powdery Mildew
+Potato,26.3,66,26.9,71,7.8,133,28,113,Yellow,Yes,Yes,No,Leaf Spot
+Rice,37.6,50,13.0,75,7.3,58,83,22,Pale Green,No,No,No,Bacterial Leaf Blight
+Rice,18.2,57,27.0,43,7.1,134,92,41,Green,No,No,Yes,Brown Spot
+Rice,18.7,61,11.7,41,6.6,92,37,26,Dark Green,No,No,No,Healthy
+Maize,33.1,50,0.7,58,5.7,97,64,79,Yellow,Yes,No,No,Common Rust
+Maize,20.5,88,19.5,40,6.3,21,68,58,Brown,Yes,No,No,Common Rust
+Rice,31.4,85,11.3,56,5.3,69,56,73,Yellow,Yes,No,No,Sheath Blight
+Tomato,19.2,48,14.3,82,5.2,123,85,86,Dark Green,No,No,No,Healthy
+Rice,28.0,67,29.9,87,7.2,126,30,33,Brown,No,No,Yes,Sheath Blight
+Maize,20.4,53,13.7,29,7.2,114,25,92,Green,Yes,Yes,No,Downy Mildew
+Maize,18.8,49,3.5,64,8.0,97,47,77,Yellow,Yes,Yes,No,Common Rust
+Tomato,35.8,53,5.5,87,5.0,109,18,20,Green,No,No,No,Late Blight
+Rice,27.5,86,25.0,41,7.3,149,91,73,Green,No,Yes,No,Bacterial Leaf Blight
+Tomato,31.3,66,11.6,75,6.0,31,95,71,Pale Green,Yes,Yes,Yes,Mosaic Virus
+Maize,29.2,47,19.3,35,5.6,33,82,81,Brown,No,Yes,Yes,Common Rust
+Maize,37.2,57,23.6,56,7.5,133,20,118,Pale Green,No,Yes,No,Leaf Blight
+Tomato,26.7,66,0.7,65,6.1,43,24,27,Brown,No,Yes,Yes,Late Blight
+Rice,21.1,66,20.4,32,6.8,103,33,18,Green,No,No,No,Healthy
+Rice,20.0,49,12.4,66,5.8,50,16,40,Brown,Yes,No,No,Bacterial Leaf Blight
+Tomato,19.2,69,16.6,33,6.5,124,91,44,Yellow,No,Yes,Yes,Late Blight
+Maize,24.1,66,13.4,89,5.6,56,57,84,Brown,Yes,No,No,Leaf Blight
+Tomato,34.3,93,18.6,46,5.0,143,44,91,Dark Green,No,No,No,Healthy
+Wheat,34.8,53,17.6,90,5.8,61,78,87,Yellow,No,Yes,No,Powdery Mildew
+Tomato,32.5,57,26.3,51,6.8,101,97,58,Pale Green,No,No,Yes,Early Blight
+Rice,22.2,78,9.9,42,6.9,20,87,75,Yellow,Yes,Yes,No,Brown Spot
+Maize,33.2,74,2.4,34,6.6,133,96,30,Pale Green,No,No,No,Gray Leaf Spot
+Potato,20.5,63,28.1,81,5.0,25,45,102,Dark Green,No,No,No,Healthy
+Potato,34.3,80,9.1,53,5.7,146,56,19,Dark Green,No,No,No,Healthy
+Wheat,22.2,52,29.5,75,5.3,91,82,79,Green,Yes,Yes,Yes,Smut
+Tomato,20.6,44,3.8,54,7.6,90,34,101,Yellow,No,No,Yes,Mosaic Virus
+Wheat,35.1,60,13.0,77,5.8,139,73,61,Green,No,No,No,Healthy
+Potato,23.6,66,16.0,65,5.0,69,52,25,Green,No,No,No,Healthy
+Potato,37.2,55,5.9,67,5.9,44,13,76,Green,Yes,No,No,Leaf Spot
+Potato,27.5,61,25.0,67,6.6,80,19,114,Dark Green,No,No,No,Healthy
+Tomato,29.6,45,29.2,29,6.1,36,26,22,Green,Yes,No,No,Bacterial Spot
+Tomato,31.6,75,1.6,73,6.2,125,39,91,Green,No,No,No,Healthy
+Wheat,27.3,67,26.4,37,6.0,26,68,81,Pale Green,Yes,Yes,Yes,Leaf Blight
+Tomato,32.3,77,23.7,49,7.7,52,91,80,Pale Green,No,No,No,Mosaic Virus
+Maize,21.7,48,23.9,32,5.4,131,75,98,Pale Green,No,Yes,Yes,Gray Leaf Spot
+Wheat,30.1,58,11.1,26,6.6,57,17,45,Yellow,No,No,Yes,Powdery Mildew
+Potato,33.7,61,5.7,85,7.1,139,86,103,Pale Green,No,No,No,Early Blight
+Rice,20.1,90,27.3,88,5.7,20,91,43,Brown,No,Yes,Yes,Leaf Blast
+Wheat,34.1,64,6.2,48,7.5,21,56,16,Yellow,No,Yes,Yes,Powdery Mildew
+Potato,26.8,80,17.6,71,5.1,27,35,40,Pale Green,Yes,Yes,No,Late Blight
+Potato,35.0,55,5.4,27,5.5,87,22,17,Brown,No,Yes,No,Late Blight
+Potato,27.1,63,24.3,46,7.8,131,18,30,Brown,Yes,Yes,Yes,Late Blight
+Maize,31.9,60,18.0,56,7.8,68,78,52,Brown,No,Yes,Yes,Gray Leaf Spot
+Rice,35.0,77,26.6,51,7.2,140,94,93,Yellow,Yes,No,No,Leaf Blast
+Wheat,27.3,60,21.4,86,7.1,146,70,49,Green,Yes,Yes,Yes,Smut
+Potato,35.3,65,6.6,79,7.7,60,57,47,Yellow,Yes,Yes,No,Leaf Spot
+Wheat,25.0,77,1.2,90,6.9,129,67,74,Green,No,No,No,Smut
+Rice,25.6,51,13.3,58,6.9,111,20,52,Yellow,No,Yes,Yes,Brown Spot
+Tomato,25.2,74,6.0,50,7.0,84,48,110,Dark Green,No,No,No,Healthy
+Potato,38.0,94,22.6,58,5.0,96,46,120,Pale Green,No,No,Yes,Mosaic Virus
+Wheat,37.8,49,26.0,54,5.7,73,70,44,Green,No,No,Yes,Smut
+Rice,26.6,84,12.5,81,6.3,27,57,32,Brown,No,Yes,No,Leaf Blast
+Rice,22.5,67,20.6,76,7.3,96,51,90,Yellow,Yes,Yes,Yes,Brown Spot
+Rice,30.6,78,27.4,75,7.9,72,60,23,Green,Yes,No,Yes,Sheath Blight
+Rice,37.2,80,26.8,36,5.5,65,14,120,Green,Yes,Yes,Yes,Sheath Blight
+Tomato,23.7,54,8.7,33,6.4,114,76,16,Brown,No,No,No,Bacterial Spot
+Potato,20.6,66,14.3,33,6.2,72,26,41,Dark Green,No,No,No,Healthy
+Wheat,21.2,76,28.2,50,6.5,137,45,40,Yellow,Yes,No,Yes,Leaf Blight
+Wheat,34.2,73,9.9,87,6.4,30,21,51,Green,No,No,No,Smut
+Maize,26.3,51,27.0,80,6.4,66,99,87,Yellow,No,Yes,Yes,Leaf Blight
+Potato,35.7,74,8.8,33,7.1,75,73,67,Yellow,No,Yes,Yes,Late Blight
+Maize,26.2,50,7.6,89,5.1,26,19,96,Green,No,No,No,Common Rust
+Potato,18.8,56,3.4,42,6.0,138,72,74,Yellow,Yes,Yes,No,Leaf Spot
+Potato,34.4,93,4.8,27,6.8,65,47,30,Green,Yes,Yes,Yes,Leaf Spot
+Rice,26.8,51,6.5,29,7.7,75,66,104,Yellow,Yes,No,No,Leaf Blast
+Wheat,30.0,43,23.2,50,7.8,115,40,40,Green,No,No,No,Healthy
+Tomato,18.6,40,10.1,49,7.0,36,38,27,Brown,Yes,Yes,No,Bacterial Spot
+Maize,34.3,60,16.9,49,6.9,121,64,30,Green,No,No,No,Healthy
+Potato,25.1,51,0.4,65,5.0,74,68,43,Green,No,No,No,Healthy
+Rice,25.4,44,26.6,77,5.9,147,23,106,Brown,No,Yes,No,Sheath Blight
+Wheat,24.6,80,22.9,65,7.9,143,18,57,Yellow,No,No,Yes,Rust
+Maize,32.1,40,7.0,40,5.9,129,41,94,Yellow,Yes,Yes,No,Downy Mildew
+Wheat,22.0,64,6.1,29,5.7,133,52,32,Pale Green,No,Yes,No,Powdery Mildew
+Rice,22.6,86,9.9,56,5.6,33,95,46,Green,No,No,No,Healthy
+Maize,28.4,51,13.3,25,5.2,145,18,39,Yellow,Yes,Yes,Yes,Gray Leaf Spot
+Tomato,29.9,93,23.9,51,5.7,40,64,107,Green,No,Yes,Yes,Early Blight
+Potato,21.5,55,9.1,82,7.9,71,44,115,Green,Yes,No,No,Leaf Spot
+Wheat,27.4,67,15.2,80,7.3,143,12,112,Green,No,Yes,No,Rust
+Maize,21.1,86,5.3,73,6.4,136,46,63,Green,Yes,No,Yes,Downy Mildew
+Wheat,21.1,52,0.1,89,7.2,115,72,66,Green,No,No,No,Rust
+Wheat,30.8,77,2.1,29,8.0,51,59,87,Brown,Yes,No,No,Powdery Mildew
+Rice,32.2,80,20.7,32,7.0,128,41,46,Green,Yes,No,Yes,Sheath Blight
+Potato,30.1,83,4.4,56,6.8,61,11,29,Yellow,No,No,Yes,Late Blight
+Maize,35.5,50,24.9,57,7.1,148,78,99,Green,No,No,Yes,Leaf Blight
+Tomato,33.5,62,24.4,59,7.2,121,99,54,Yellow,Yes,No,Yes,Mosaic Virus
+Tomato,33.5,66,15.7,61,7.2,63,32,62,Green,No,No,No,Healthy
+Potato,27.7,72,28.5,82,6.7,74,33,40,Yellow,Yes,Yes,No,Early Blight
+Wheat,30.5,79,3.3,46,5.2,41,58,30,Pale Green,Yes,No,Yes,Leaf Blight
+Maize,27.6,83,22.8,26,5.2,21,95,89,Yellow,Yes,Yes,Yes,Leaf Blight
+Wheat,28.4,88,8.0,87,6.4,106,87,69,Pale Green,No,No,No,Smut
+Potato,31.3,64,18.3,70,7.6,45,10,73,Green,Yes,Yes,Yes,Late Blight
+Maize,37.0,88,24.5,72,6.4,141,75,67,Brown,Yes,No,Yes,Common Rust
+Rice,37.4,87,9.8,81,5.7,144,61,109,Green,No,No,No,Healthy
+Rice,36.8,70,29.6,37,7.2,95,87,39,Brown,Yes,Yes,No,Bacterial Leaf Blight
+Tomato,34.6,75,29.6,84,5.5,134,24,76,Brown,Yes,Yes,Yes,Late Blight
+Tomato,26.7,85,0.9,66,7.7,91,38,107,Dark Green,No,No,No,Healthy
+Wheat,31.3,74,19.0,87,5.3,105,38,88,Green,No,No,No,Healthy
+Rice,36.2,87,22.1,73,7.0,131,39,43,Pale Green,Yes,No,Yes,Bacterial Leaf Blight
+Tomato,24.8,77,28.1,39,6.7,52,50,63,Green,No,No,No,Healthy
+Rice,29.8,52,25.4,79,6.0,113,96,116,Green,No,No,No,Healthy
+Maize,29.8,46,11.9,83,5.9,95,38,78,Green,Yes,No,Yes,Downy Mildew
+Tomato,24.4,72,29.7,40,5.8,142,90,42,Green,No,No,Yes,Mosaic Virus
+Rice,34.6,53,25.4,53,7.1,33,32,77,Green,No,Yes,Yes,Leaf Blast
+Maize,24.7,83,14.2,69,7.3,120,19,82,Pale Green,No,Yes,No,Gray Leaf Spot
+Tomato,24.5,90,17.4,31,7.5,97,68,98,Brown,Yes,No,No,Early Blight
+Rice,22.2,91,22.5,26,6.1,46,96,115,Brown,No,No,Yes,Leaf Blast
+Tomato,25.1,70,5.4,31,5.4,106,85,70,Green,No,No,No,Healthy
+Wheat,18.7,55,11.9,63,7.1,64,93,110,Green,Yes,No,No,Rust
+Rice,25.3,47,3.5,40,6.5,150,38,17,Green,No,Yes,Yes,Bacterial Leaf Blight
+Wheat,38.0,84,13.0,41,5.3,36,78,38,Green,Yes,No,No,Leaf Blight
+Tomato,34.7,74,21.4,40,7.3,73,94,30,Brown,Yes,Yes,No,Mosaic Virus
+Rice,18.8,76,6.2,45,5.3,85,14,25,Green,No,No,No,Healthy
+Maize,25.3,74,5.1,25,5.7,31,76,115,Pale Green,No,Yes,No,Common Rust
+Rice,36.2,62,18.2,90,5.6,45,94,119,Yellow,Yes,Yes,Yes,Sheath Blight
+Potato,35.1,53,28.7,52,6.8,91,26,108,Green,Yes,No,No,Late Blight
+Wheat,26.0,45,28.3,79,7.8,56,78,41,Yellow,No,Yes,No,Rust
+Maize,30.1,66,24.6,65,8.0,131,58,18,Brown,Yes,No,Yes,Downy Mildew
+Maize,31.7,66,2.0,36,6.1,105,44,33,Green,No,No,No,Healthy
+Rice,20.0,54,11.4,38,7.3,51,32,82,Dark Green,No,No,No,Healthy
+Maize,19.9,62,21.0,61,6.7,45,16,36,Pale Green,No,Yes,No,Gray Leaf Spot
+Maize,29.9,94,12.1,41,5.8,59,94,31,Brown,No,No,Yes,Downy Mildew
+Rice,31.6,66,21.2,48,6.3,110,69,79,Pale Green,No,No,Yes,Leaf Blast
+Rice,36.9,66,23.1,36,6.9,39,40,26,Green,No,No,No,Healthy
+Maize,19.7,58,16.6,88,7.4,22,64,101,Green,No,No,No,Healthy
+Wheat,28.3,83,26.6,40,6.2,68,10,106,Green,No,Yes,Yes,Leaf Blight
+Maize,37.3,83,27.9,53,5.5,113,27,80,Pale Green,Yes,No,No,Gray Leaf Spot
+Wheat,25.5,47,10.1,56,7.5,50,47,53,Green,No,No,Yes,Rust
+Tomato,25.9,59,27.9,90,7.5,29,69,94,Green,Yes,No,Yes,Mosaic Virus
+Maize,24.6,62,3.2,69,7.7,67,61,60,Yellow,Yes,No,No,Gray Leaf Spot
+Potato,28.6,49,12.3,87,5.0,84,38,75,Dark Green,No,No,No,Healthy
+Rice,25.3,51,16.1,59,5.3,132,94,71,Brown,Yes,No,No,Brown Spot
+Tomato,35.7,85,6.0,49,5.9,54,60,68,Pale Green,Yes,Yes,Yes,Late Blight
+Wheat,20.4,71,16.5,41,6.0,122,74,107,Green,Yes,Yes,Yes,Powdery Mildew
+Tomato,21.1,72,0.4,55,5.2,107,64,91,Yellow,No,No,No,Early Blight
+Rice,19.7,67,7.4,44,7.2,67,41,50,Yellow,No,Yes,No,Bacterial Leaf Blight
+Potato,32.1,91,3.1,89,6.8,68,85,95,Brown,Yes,Yes,Yes,Leaf Spot
+Wheat,23.5,52,27.9,79,5.1,71,21,21,Dark Green,No,No,No,Healthy
+Wheat,24.1,80,29.4,53,6.0,142,17,80,Green,Yes,No,Yes,Smut
+Rice,23.6,62,21.3,56,6.0,32,33,20,Yellow,Yes,No,Yes,Brown Spot
+Rice,23.6,78,3.0,48,5.8,145,56,57,Pale Green,Yes,Yes,Yes,Bacterial Leaf Blight
+Maize,24.6,87,24.3,72,5.7,90,36,89,Green,Yes,Yes,Yes,Leaf Blight
+Maize,18.8,81,24.5,49,7.1,45,19,84,Dark Green,No,No,No,Healthy
+Rice,37.8,52,16.0,44,5.1,69,63,85,Pale Green,No,No,No,Bacterial Leaf Blight
+Tomato,19.4,66,15.7,89,7.4,62,86,50,Brown,No,Yes,Yes,Bacterial Spot
+Potato,27.9,74,26.1,34,5.5,150,59,86,Green,No,No,Yes,Leaf Spot
+Potato,21.2,53,17.8,26,7.6,136,74,105,Dark Green,No,No,No,Healthy
+Rice,23.9,57,16.6,46,5.7,80,47,20,Brown,No,Yes,No,Leaf Blast
+Tomato,37.8,53,16.0,25,6.9,114,51,25,Pale Green,Yes,No,No,Early Blight
+Rice,30.5,40,24.7,53,7.2,91,32,47,Green,No,No,No,Healthy
+Maize,20.1,87,20.6,57,7.6,72,66,43,Pale Green,No,Yes,No,Downy Mildew
+Potato,22.6,86,13.0,43,7.7,43,73,38,Green,Yes,Yes,Yes,Leaf Spot
+Maize,36.9,51,19.4,27,5.9,65,60,102,Brown,Yes,Yes,Yes,Gray Leaf Spot
+Wheat,27.1,81,29.1,37,7.2,55,11,92,Yellow,No,No,Yes,Rust
+Tomato,33.3,81,28.0,41,5.7,41,44,33,Green,No,No,No,Healthy
+Tomato,28.8,92,10.2,35,5.6,142,82,71,Green,No,No,No,Healthy
+Rice,27.6,55,1.7,59,6.9,51,12,120,Yellow,Yes,No,Yes,Brown Spot
+Maize,20.8,54,0.7,79,6.2,110,93,51,Brown,No,Yes,No,Gray Leaf Spot
+Potato,22.5,58,10.7,67,5.4,41,15,92,Green,No,No,No,Healthy
+Potato,28.6,78,5.4,79,5.5,97,89,119,Pale Green,No,Yes,No,Leaf Spot
+Wheat,36.7,91,27.2,34,7.4,58,93,33,Pale Green,Yes,No,No,Powdery Mildew
+Wheat,20.3,67,28.8,60,5.4,102,26,38,Dark Green,No,No,No,Healthy
+Rice,27.9,70,20.8,77,6.8,105,27,117,Brown,No,No,No,Brown Spot
+Maize,27.9,74,24.6,74,5.3,127,77,88,Brown,Yes,Yes,No,Downy Mildew
+Tomato,37.9,41,10.9,85,7.9,48,17,59,Pale Green,Yes,No,No,Early Blight
+Potato,37.4,66,7.3,53,5.2,55,25,104,Brown,No,Yes,No,Mosaic Virus
+Rice,32.0,82,17.4,86,7.5,60,13,33,Dark Green,No,No,No,Healthy
+Potato,22.9,40,17.1,78,5.4,66,70,110,Green,No,No,No,Healthy
+Maize,27.4,86,10.1,26,5.9,59,17,97,Yellow,Yes,Yes,Yes,Common Rust
+Wheat,31.6,69,16.6,58,7.8,148,49,105,Brown,No,Yes,No,Leaf Blight
+Tomato,25.6,48,22.3,76,6.9,76,60,38,Yellow,No,No,No,Mosaic Virus
+Wheat,21.3,91,11.1,79,5.6,47,23,24,Pale Green,No,Yes,Yes,Leaf Blight
+Rice,28.8,44,6.4,26,7.3,99,34,85,Brown,Yes,Yes,No,Leaf Blast
+Tomato,29.3,76,29.6,86,5.1,100,21,54,Yellow,No,No,No,Mosaic Virus
+Maize,24.3,65,21.8,41,7.1,44,52,67,Yellow,Yes,Yes,No,Leaf Blight
+Wheat,35.4,42,8.7,44,7.0,40,90,26,Brown,Yes,Yes,Yes,Smut
+Maize,37.8,78,19.5,68,6.3,53,53,52,Pale Green,No,Yes,No,Downy Mildew
+Potato,37.9,78,2.2,44,6.7,147,22,118,Yellow,Yes,No,Yes,Early Blight
+Wheat,27.1,50,28.0,45,5.2,113,55,26,Green,No,No,No,Healthy
+Potato,23.2,70,29.4,81,7.0,55,25,87,Green,Yes,No,No,Leaf Spot
+Wheat,35.1,83,3.9,71,6.5,100,57,25,Green,No,No,Yes,Leaf Blight
+Maize,32.8,55,21.0,26,5.5,46,47,63,Green,No,No,No,Healthy
+Maize,35.1,54,11.6,84,7.0,109,69,74,Green,Yes,Yes,Yes,Gray Leaf Spot
+Tomato,33.4,52,12.0,33,6.0,144,37,104,Green,Yes,No,No,Bacterial Spot
+Tomato,21.1,70,4.4,52,6.0,28,86,114,Green,Yes,No,No,Mosaic Virus
+Wheat,19.1,95,0.7,79,5.8,65,20,33,Yellow,No,No,Yes,Rust
+Rice,35.4,73,6.4,58,5.6,33,21,69,Pale Green,No,Yes,Yes,Bacterial Leaf Blight
+Rice,27.6,74,20.7,45,7.9,131,55,103,Green,Yes,Yes,Yes,Bacterial Leaf Blight
+Maize,20.9,82,29.6,65,5.0,137,28,78,Pale Green,Yes,No,No,Downy Mildew
+Maize,37.8,93,25.7,82,6.9,44,14,42,Green,No,No,No,Healthy
+Wheat,33.5,78,11.3,69,5.6,68,96,88,Yellow,No,No,Yes,Smut
+Rice,28.0,95,3.7,88,6.9,136,62,67,Pale Green,No,No,No,Brown Spot
+Tomato,27.2,63,5.3,45,6.6,117,46,99,Green,No,Yes,Yes,Early Blight
+Tomato,31.0,79,28.0,38,6.5,45,91,71,Green,No,No,No,Healthy
+Rice,22.2,89,13.6,73,5.3,140,25,59,Green,No,No,Yes,Bacterial Leaf Blight
+Rice,28.2,57,26.4,58,5.9,126,96,45,Yellow,No,Yes,Yes,Leaf Blast
+Tomato,33.8,93,24.5,65,6.0,130,40,86,Green,Yes,No,Yes,Early Blight
+Maize,20.6,80,11.7,47,6.2,101,76,35,Green,Yes,Yes,Yes,Gray Leaf Spot
+Maize,30.6,90,11.8,58,7.5,60,51,41,Green,No,No,No,Healthy
+Tomato,26.7,80,23.1,44,5.1,40,83,63,Green,No,No,No,Healthy
+Potato,30.7,89,10.7,55,7.0,76,48,39,Brown,No,No,Yes,Leaf Spot
+Rice,36.7,80,0.7,38,5.3,51,23,33,Dark Green,No,No,No,Healthy
+Rice,19.9,71,25.3,51,6.2,145,12,67,Yellow,No,Yes,Yes,Leaf Blast
+Wheat,35.8,80,27.2,45,5.5,22,32,99,Yellow,Yes,No,No,Leaf Blight
+Wheat,30.0,40,4.8,57,7.8,69,87,18,Yellow,Yes,Yes,No,Smut
+Tomato,18.6,48,6.6,41,5.8,143,35,26,Pale Green,No,No,No,Early Blight
+Wheat,36.9,52,7.5,50,7.1,91,60,28,Pale Green,Yes,Yes,No,Smut
+Wheat,26.5,87,8.2,65,6.9,118,64,40,Pale Green,No,Yes,No,Leaf Blight
+Potato,37.2,56,17.6,62,6.8,110,60,18,Green,No,No,No,Healthy
+Potato,26.6,51,10.7,34,5.6,115,57,33,Pale Green,Yes,Yes,No,Late Blight
+Tomato,22.3,76,23.9,54,6.7,118,46,92,Brown,Yes,Yes,No,Late Blight
+Maize,29.5,81,12.7,80,6.0,101,35,40,Green,No,No,No,Healthy
+Wheat,18.9,57,12.6,40,6.4,103,85,64,Brown,Yes,No,Yes,Leaf Blight
+Maize,36.2,58,3.9,76,5.1,30,53,97,Green,No,No,No,Healthy
+Tomato,19.9,91,12.5,63,5.8,108,61,25,Pale Green,No,Yes,No,Bacterial Spot
+Rice,27.9,81,29.0,40,7.5,46,13,43,Yellow,Yes,Yes,Yes,Bacterial Leaf Blight
+Rice,22.5,45,5.7,72,7.4,21,98,21,Pale Green,Yes,Yes,Yes,Bacterial Leaf Blight
+Rice,23.3,84,18.4,73,5.8,63,27,89,Dark Green,No,No,No,Healthy
+Tomato,24.4,49,22.6,77,6.9,51,76,82,Brown,No,No,No,Early Blight
+Rice,22.5,56,23.0,35,6.1,82,94,97,Brown,Yes,Yes,No,Bacterial Leaf Blight
+Tomato,18.3,53,14.0,74,5.6,46,53,41,Pale Green,No,No,Yes,Early Blight
+Maize,36.3,54,27.5,74,7.9,71,61,39,Green,No,No,No,Healthy
+Rice,21.3,59,28.5,38,5.4,47,24,45,Yellow,No,Yes,No,Bacterial Leaf Blight
+Tomato,31.2,68,10.6,40,7.8,41,55,70,Brown,Yes,No,No,Bacterial Spot
+Maize,19.1,57,11.1,31,6.9,128,34,52,Brown,No,Yes,No,Common Rust
+Maize,27.9,67,3.3,31,6.9,48,38,29,Yellow,Yes,No,Yes,Downy Mildew
+Tomato,20.0,54,26.5,76,6.2,45,38,108,Pale Green,No,Yes,Yes,Mosaic Virus
+Potato,30.7,85,17.9,25,5.3,148,99,94,Green,No,Yes,Yes,Late Blight
+Rice,21.3,61,27.0,43,7.9,141,64,57,Green,No,No,No,Healthy
+Potato,35.6,50,20.4,26,6.8,141,84,15,Green,Yes,No,Yes,Late Blight
+Tomato,29.3,58,25.1,89,5.5,57,22,27,Dark Green,No,No,No,Healthy
+Rice,27.8,62,29.7,57,7.0,84,56,73,Yellow,No,No,No,Bacterial Leaf Blight
+Maize,27.7,57,20.6,27,5.4,125,38,99,Brown,No,No,Yes,Downy Mildew
+Potato,32.8,67,10.8,36,5.6,116,91,28,Pale Green,No,Yes,No,Mosaic Virus
+Rice,25.8,66,28.4,60,5.9,30,84,81,Pale Green,Yes,No,No,Brown Spot
+Maize,23.8,40,15.0,43,6.4,58,76,52,Brown,No,No,No,Common Rust
+Tomato,18.3,42,6.5,40,5.2,98,10,70,Pale Green,Yes,Yes,No,Late Blight
+Potato,35.6,90,25.8,44,7.9,89,28,108,Brown,No,Yes,No,Late Blight
+Potato,27.5,62,7.5,74,6.3,45,43,53,Dark Green,No,No,No,Healthy
+Potato,26.7,60,24.1,42,7.0,71,42,32,Green,Yes,No,No,Mosaic Virus
+Tomato,29.3,80,13.8,48,6.1,131,22,32,Green,No,No,No,Late Blight
+Rice,27.3,66,13.8,28,7.9,127,21,111,Brown,No,Yes,No,Bacterial Leaf Blight
+Potato,28.9,76,26.3,31,7.3,120,26,66,Yellow,No,No,Yes,Mosaic Virus
+Tomato,23.4,81,3.2,37,7.5,143,98,57,Green,No,No,No,Healthy
+Tomato,31.5,87,21.5,51,6.5,146,27,43,Brown,No,No,Yes,Mosaic Virus
+Wheat,31.8,47,2.0,44,6.8,50,76,27,Brown,Yes,Yes,No,Smut
+Tomato,26.9,43,27.8,63,6.2,67,40,84,Pale Green,No,Yes,No,Mosaic Virus
+Potato,21.7,92,22.3,55,5.5,71,70,76,Dark Green,No,No,No,Healthy
+Rice,37.2,71,11.0,60,6.2,47,69,68,Dark Green,No,No,No,Healthy
+Potato,23.7,47,16.9,26,6.7,28,92,98,Dark Green,No,No,No,Healthy
+Tomato,37.3,69,26.5,83,5.8,60,55,79,Brown,No,No,Yes,Late Blight
+Potato,25.0,86,16.9,83,7.1,55,45,115,Pale Green,No,Yes,No,Early Blight
+Wheat,30.1,51,17.3,89,7.3,86,26,104,Pale Green,No,No,Yes,Leaf Blight
+Tomato,35.0,50,7.0,38,6.5,141,51,112,Green,No,No,No,Healthy
+Potato,36.0,51,21.8,74,7.3,127,18,22,Dark Green,No,No,No,Healthy
+Tomato,34.9,44,13.2,72,6.8,27,32,56,Green,No,No,No,Healthy
+Wheat,20.7,80,17.2,50,5.6,145,66,101,Pale Green,Yes,Yes,Yes,Leaf Blight
+Wheat,34.2,52,2.6,28,6.9,44,36,19,Brown,Yes,No,No,Smut
+Maize,35.3,61,5.6,88,5.6,73,83,120,Green,No,No,Yes,Downy Mildew
+Tomato,26.6,64,26.2,35,5.4,96,22,30,Green,Yes,Yes,No,Bacterial Spot
+Tomato,34.4,58,27.7,57,6.2,111,18,35,Pale Green,Yes,Yes,No,Early Blight
+Wheat,19.1,84,26.8,85,7.8,87,93,18,Yellow,No,No,No,Smut
+Potato,35.8,43,4.2,67,7.8,35,40,78,Yellow,Yes,No,Yes,Late Blight
+Wheat,32.8,45,26.6,86,7.8,89,15,28,Yellow,No,Yes,No,Smut
+Wheat,24.1,94,26.3,54,5.1,34,13,114,Brown,No,Yes,No,Leaf Blight
+Tomato,33.3,84,3.8,79,6.6,49,66,30,Pale Green,No,Yes,No,Bacterial Spot
+Wheat,22.8,45,17.7,54,6.2,31,11,107,Green,No,No,No,Healthy
+Tomato,19.1,68,5.4,30,5.9,82,47,31,Dark Green,No,No,No,Healthy
+Wheat,31.1,44,7.5,51,6.5,111,38,71,Dark Green,No,No,No,Healthy
+Rice,23.9,81,7.3,59,6.0,148,23,21,Pale Green,No,No,No,Sheath Blight
+Tomato,36.2,93,29.3,54,5.9,73,25,62,Brown,Yes,Yes,No,Early Blight
+Wheat,18.4,93,1.0,60,6.8,96,20,22,Dark Green,No,No,No,Healthy
+Maize,27.9,95,11.5,81,5.1,72,58,38,Green,Yes,No,Yes,Gray Leaf Spot
+Maize,36.7,78,22.6,68,7.8,87,85,42,Yellow,No,No,No,Common Rust
+Tomato,29.1,86,28.0,61,7.6,138,64,88,Dark Green,No,No,No,Healthy
+Potato,27.3,55,4.0,26,5.8,90,20,46,Pale Green,No,No,Yes,Leaf Spot
+Maize,25.2,82,7.5,26,5.4,102,43,37,Green,No,Yes,No,Common Rust
+Tomato,18.7,62,14.4,52,6.2,40,45,93,Pale Green,Yes,No,Yes,Bacterial Spot
+Rice,23.2,71,3.8,47,5.4,32,39,29,Yellow,Yes,No,No,Brown Spot
+Tomato,32.3,43,28.6,58,7.9,24,96,60,Yellow,Yes,No,Yes,Mosaic Virus
+Tomato,26.9,72,2.3,51,6.0,115,97,68,Yellow,No,No,Yes,Mosaic Virus
+Tomato,30.1,63,10.0,77,7.7,115,70,52,Yellow,Yes,No,Yes,Late Blight
+Rice,36.2,41,3.2,52,7.4,150,75,115,Pale Green,Yes,No,Yes,Leaf Blast
+Potato,33.3,81,2.4,34,7.9,77,82,79,Green,Yes,Yes,No,Leaf Spot
+Maize,26.8,57,5.9,62,7.7,104,41,117,Pale Green,Yes,No,No,Downy Mildew
+Tomato,26.9,66,10.9,70,6.7,39,56,98,Green,Yes,No,No,Early Blight
+Potato,34.6,48,27.8,56,7.3,124,96,89,Brown,No,No,No,Mosaic Virus
+Rice,19.6,66,15.2,43,6.7,70,33,73,Green,No,No,No,Healthy
+Potato,26.4,88,16.6,85,7.2,52,14,70,Green,No,No,No,Healthy
+Potato,20.6,95,15.9,74,7.7,110,26,66,Green,No,No,No,Healthy
+Rice,24.7,92,27.0,38,8.0,31,19,109,Dark Green,No,No,No,Healthy
+Wheat,30.6,87,25.0,62,7.3,54,33,107,Yellow,Yes,Yes,No,Leaf Blight
+Wheat,24.4,51,15.3,60,7.8,44,39,53,Green,No,Yes,No,Leaf Blight
+Rice,25.7,88,5.4,43,5.1,73,65,81,Pale Green,No,Yes,No,Brown Spot
+Rice,20.4,57,14.6,53,7.7,93,43,92,Yellow,Yes,No,Yes,Leaf Blast
+Tomato,29.0,72,22.6,28,6.8,30,79,83,Brown,Yes,No,Yes,Early Blight
+Rice,23.6,76,12.8,81,6.6,136,47,29,Yellow,No,No,No,Leaf Blast
+Rice,35.3,57,21.9,39,7.9,40,38,108,Green,No,No,No,Healthy
+Rice,28.1,57,13.6,90,7.0,38,100,103,Pale Green,Yes,No,Yes,Leaf Blast
+Maize,21.8,75,19.8,29,7.8,22,41,32,Green,Yes,Yes,No,Common Rust
+Wheat,27.7,51,22.0,61,5.4,42,76,107,Brown,Yes,No,Yes,Rust
+Wheat,30.2,85,5.3,78,7.1,117,90,89,Brown,No,No,Yes,Smut
+Rice,35.5,82,14.6,75,6.8,143,47,27,Brown,Yes,No,No,Leaf Blast
+Wheat,22.9,67,3.5,84,7.9,49,54,104,Green,Yes,No,No,Powdery Mildew
+Maize,31.7,41,8.7,89,5.6,124,17,86,Pale Green,No,No,No,Gray Leaf Spot
+Wheat,26.5,56,27.4,59,6.5,76,53,96,Yellow,No,No,No,Leaf Blight
+Potato,35.5,74,6.2,39,7.8,104,26,92,Yellow,Yes,No,Yes,Mosaic Virus
+Rice,33.3,75,1.9,31,6.6,112,78,40,Brown,No,Yes,No,Brown Spot
+Potato,24.6,53,16.6,56,7.8,29,12,111,Yellow,No,No,Yes,Late Blight
+Potato,24.0,54,18.9,56,5.1,51,58,98,Green,Yes,No,Yes,Late Blight
+Tomato,28.1,85,22.9,78,5.1,58,22,109,Dark Green,No,No,No,Healthy
+Potato,35.2,90,9.7,90,7.2,97,45,73,Brown,Yes,No,No,Mosaic Virus
+Wheat,26.6,54,29.0,60,6.5,149,41,63,Yellow,No,No,No,Powdery Mildew
+Maize,27.0,76,29.3,75,7.3,134,57,76,Green,No,No,No,Healthy
+Rice,20.9,80,29.3,37,6.7,73,72,90,Brown,Yes,Yes,No,Brown Spot
+Maize,28.5,93,17.0,54,5.2,146,42,67,Pale Green,No,Yes,Yes,Gray Leaf Spot
+Rice,30.0,95,0.2,51,7.3,145,79,78,Pale Green,Yes,No,No,Sheath Blight
+Wheat,29.1,87,29.8,35,7.8,128,99,24,Green,Yes,Yes,Yes,Smut
+Maize,21.3,68,26.1,39,5.1,128,73,36,Dark Green,No,No,No,Healthy
+Potato,26.4,40,8.9,80,8.0,89,76,56,Pale Green,Yes,Yes,No,Mosaic Virus
+Maize,34.1,85,11.1,57,6.4,73,52,110,Brown,Yes,No,Yes,Leaf Blight
+Rice,21.6,70,2.0,25,5.9,68,35,103,Yellow,No,No,Yes,Bacterial Leaf Blight
+Tomato,27.4,50,2.0,53,6.0,23,34,50,Pale Green,No,No,No,Mosaic Virus
+Maize,36.7,75,16.2,50,5.2,59,23,108,Brown,No,Yes,No,Gray Leaf Spot
+Maize,20.5,73,17.6,74,6.0,90,88,100,Dark Green,No,No,No,Healthy
+Potato,18.1,54,29.7,36,7.8,57,28,36,Green,Yes,No,Yes,Early Blight
+Tomato,28.2,68,12.8,85,6.0,148,25,45,Green,No,No,No,Early Blight
+Rice,34.8,60,15.9,52,7.9,91,28,70,Green,No,No,Yes,Brown Spot
+Maize,31.0,51,0.8,71,7.6,108,64,42,Brown,No,No,Yes,Gray Leaf Spot
+Tomato,26.8,73,5.8,64,6.0,114,42,79,Yellow,No,Yes,No,Early Blight
+Wheat,18.9,84,21.1,60,6.9,27,70,92,Green,No,Yes,No,Leaf Blight
+Maize,18.8,41,18.4,44,7.1,65,26,25,Dark Green,No,No,No,Healthy
+Tomato,26.9,85,1.9,37,7.6,91,34,98,Green,No,No,No,Healthy
+Rice,36.0,50,27.2,71,6.5,123,63,100,Yellow,Yes,Yes,Yes,Brown Spot
+Rice,21.5,42,8.3,50,7.1,124,32,96,Green,No,No,No,Healthy
+Rice,29.2,47,10.2,36,6.7,138,21,29,Yellow,Yes,Yes,Yes,Brown Spot
+Rice,30.5,41,23.0,26,5.7,115,68,25,Brown,No,Yes,Yes,Sheath Blight
+Rice,25.6,58,5.3,42,6.7,125,38,39,Dark Green,No,No,No,Healthy
+Potato,37.6,56,20.9,58,5.3,110,84,61,Pale Green,No,Yes,Yes,Early Blight
+Maize,21.1,76,6.3,80,6.0,93,36,58,Pale Green,Yes,Yes,No,Gray Leaf Spot
+Potato,23.2,47,15.5,48,6.4,139,85,56,Pale Green,No,Yes,No,Leaf Spot
+Tomato,35.4,40,4.8,85,6.0,45,33,60,Pale Green,Yes,No,Yes,Late Blight
+Tomato,34.2,69,17.8,80,7.2,141,41,47,Pale Green,No,No,No,Bacterial Spot
+Rice,37.4,54,22.9,89,5.3,129,44,88,Dark Green,No,No,No,Healthy
+Maize,21.3,50,27.7,50,7.9,55,26,99,Dark Green,No,No,No,Healthy
+Tomato,24.2,89,4.2,69,6.4,62,68,15,Green,No,No,No,Healthy
+Potato,24.0,45,5.5,51,6.3,82,29,102,Pale Green,Yes,No,Yes,Early Blight
+Rice,27.4,83,11.8,52,7.7,116,69,105,Green,No,No,No,Healthy
+Tomato,20.6,88,28.1,76,7.3,92,96,108,Green,No,Yes,No,Bacterial Spot
+Wheat,18.5,78,5.3,55,6.1,107,74,120,Yellow,No,Yes,Yes,Smut
+Potato,21.8,53,9.1,36,6.0,66,64,34,Pale Green,No,No,No,Leaf Spot
+Tomato,37.2,66,5.4,75,7.0,47,69,118,Yellow,No,Yes,No,Late Blight
+Tomato,24.4,76,15.2,83,5.0,122,64,113,Yellow,No,No,No,Early Blight
+Tomato,34.1,68,15.1,85,7.1,113,24,115,Brown,No,No,Yes,Mosaic Virus
+Potato,24.7,85,17.7,50,6.5,136,65,21,Dark Green,No,No,No,Healthy
+Rice,20.4,71,13.8,31,7.7,114,42,69,Dark Green,No,No,No,Healthy
+Rice,28.9,51,8.8,78,5.1,103,48,96,Green,No,No,No,Healthy
+Maize,25.1,42,15.9,75,5.7,41,78,27,Green,No,No,No,Healthy
+Potato,26.6,57,10.4,83,7.1,82,77,87,Green,Yes,Yes,No,Leaf Spot
+Rice,20.9,86,19.1,37,6.1,40,53,96,Dark Green,No,No,No,Healthy
+Wheat,18.4,87,7.7,35,7.5,130,24,116,Brown,No,No,Yes,Leaf Blight
+Tomato,29.5,53,22.8,80,5.8,67,45,79,Yellow,No,Yes,No,Late Blight
+Rice,26.1,41,23.5,41,5.8,138,86,116,Dark Green,No,No,No,Healthy
+Tomato,22.5,85,9.7,33,6.8,137,85,68,Pale Green,No,No,Yes,Early Blight
+Rice,24.4,92,13.3,84,7.6,147,36,83,Brown,No,No,No,Brown Spot
+Tomato,37.4,80,14.6,69,5.2,114,48,52,Pale Green,No,No,Yes,Mosaic Virus
+Potato,29.7,79,10.5,80,6.2,25,46,86,Green,Yes,No,Yes,Mosaic Virus
+Wheat,37.0,47,2.9,52,5.6,48,83,52,Brown,Yes,No,No,Smut
+Rice,26.4,78,8.4,71,6.9,101,74,83,Green,Yes,No,No,Leaf Blast
+Wheat,34.5,68,4.7,47,6.2,20,78,57,Green,Yes,Yes,No,Powdery Mildew
+Maize,37.5,66,5.7,28,6.9,55,88,94,Yellow,No,Yes,No,Gray Leaf Spot
+Maize,21.3,80,14.2,36,7.9,25,86,116,Green,Yes,Yes,No,Leaf Blight
+Rice,21.5,85,27.6,66,5.4,36,13,41,Green,No,Yes,No,Leaf Blast
+Potato,37.5,72,19.2,67,7.6,60,41,74,Yellow,Yes,Yes,No,Early Blight
+Maize,35.2,44,23.5,58,7.7,50,87,97,Yellow,No,No,Yes,Gray Leaf Spot
+Rice,34.6,86,23.1,71,6.2,150,90,98,Green,No,Yes,Yes,Bacterial Leaf Blight
+Potato,33.2,77,22.6,39,7.2,113,62,99,Pale Green,Yes,Yes,No,Late Blight
+Potato,19.9,81,20.8,83,7.7,145,41,111,Pale Green,No,No,No,Late Blight
+Rice,32.0,76,8.3,29,7.3,57,76,51,Yellow,Yes,No,No,Bacterial Leaf Blight
+Rice,36.9,50,17.0,64,6.4,132,96,52,Brown,Yes,Yes,No,Brown Spot
+Wheat,30.7,41,25.5,63,5.4,23,43,61,Green,No,Yes,No,Powdery Mildew
+Potato,35.1,60,15.7,73,7.6,144,92,36,Green,Yes,No,No,Mosaic Virus
+Tomato,24.8,59,6.2,44,5.8,50,93,40,Dark Green,No,No,No,Healthy
+Wheat,29.4,80,27.2,54,7.2,113,95,19,Green,Yes,No,Yes,Leaf Blight
+Rice,37.2,94,22.2,35,7.9,34,67,87,Brown,Yes,No,Yes,Sheath Blight
+Potato,31.8,69,5.3,59,6.7,43,34,108,Yellow,Yes,No,Yes,Early Blight
+Potato,22.9,88,17.4,84,5.3,33,50,116,Yellow,Yes,No,Yes,Early Blight
+Wheat,27.5,46,16.3,52,6.8,96,82,16,Dark Green,No,No,No,Healthy
+Tomato,33.5,52,17.7,83,8.0,84,62,91,Pale Green,No,Yes,No,Bacterial Spot
+Maize,28.3,81,9.0,56,6.0,148,49,95,Green,Yes,Yes,No,Gray Leaf Spot
+Tomato,35.9,72,14.1,45,5.5,130,96,53,Yellow,No,No,Yes,Late Blight
+Potato,33.3,53,9.2,64,6.0,140,23,102,Dark Green,No,No,No,Healthy
+Maize,29.4,49,9.7,49,7.3,63,30,93,Brown,No,No,No,Leaf Blight
+Rice,36.7,70,28.0,63,6.1,98,52,108,Pale Green,No,No,No,Leaf Blast
+Wheat,25.9,66,0.2,76,5.2,124,55,97,Brown,No,No,Yes,Smut
+Potato,31.2,56,8.8,72,5.1,129,58,56,Brown,Yes,No,No,Early Blight
+Tomato,22.9,60,21.7,85,7.9,31,94,64,Dark Green,No,No,No,Healthy
+Potato,37.7,77,11.3,37,5.2,107,45,83,Pale Green,No,No,Yes,Late Blight
+Wheat,35.6,44,9.7,77,7.5,58,85,53,Brown,Yes,No,Yes,Rust
+Rice,28.9,82,7.8,62,7.1,55,18,115,Pale Green,No,No,Yes,Sheath Blight
+Potato,27.4,69,10.9,50,7.0,86,42,92,Yellow,Yes,Yes,No,Late Blight
+Wheat,34.1,91,1.4,32,7.7,115,12,87,Green,Yes,No,No,Leaf Blight
+Rice,24.7,44,22.0,36,7.9,48,78,35,Yellow,No,Yes,Yes,Sheath Blight
+Wheat,27.3,87,4.6,67,5.2,106,68,82,Green,Yes,No,No,Powdery Mildew
+Tomato,34.6,41,0.3,66,6.3,86,38,89,Pale Green,No,Yes,No,Mosaic Virus
+Maize,21.8,49,6.2,48,5.3,30,26,84,Pale Green,Yes,No,No,Leaf Blight
+Potato,22.0,50,12.7,59,5.7,75,55,18,Brown,No,Yes,No,Early Blight
+Tomato,35.4,94,22.2,73,5.1,132,61,40,Brown,No,Yes,Yes,Bacterial Spot
+Potato,36.3,86,15.5,45,7.3,50,72,109,Pale Green,No,No,Yes,Mosaic Virus
+Potato,34.0,63,14.3,90,5.3,136,12,15,Dark Green,No,No,No,Healthy
